@@ -1,0 +1,7146 @@
+---
+Abkhazia:
+  :iso: GE
+  :cc: 995
+  :mccs:
+  - 289
+  :operators:
+  - :mcc: 289
+    :mnc: 67
+    :name: Aquafon
+  - :mcc: 289
+    :mnc: 68
+    :name: A-Mobile
+  - :mcc: 289
+    :mnc: 88
+    :name: A-Mobile
+Afghanistan:
+  :iso: AF
+  :cc: 93
+  :mccs:
+  - 412
+  :operators:
+  - :mcc: 412
+    :mnc: 1
+    :name: AWCC
+  - :mcc: 412
+    :mnc: 20
+    :name: Roshan
+  - :mcc: 412
+    :mnc: 40
+    :name: MTN
+  - :mcc: 412
+    :mnc: 50
+    :name: Etisalat
+  - :mcc: 412
+    :mnc: 55
+    :name: WASEL
+  - :mcc: 412
+    :mnc: 80
+    :name: Salaam
+  - :mcc: 412
+    :mnc: 88
+    :name: Salaam
+Albania:
+  :iso: AL
+  :cc: 355
+  :mccs:
+  - 276
+  :operators:
+  - :mcc: 276
+    :mnc: 1
+    :name: AMC
+  - :mcc: 276
+    :mnc: 2
+    :name: Vodafone
+  - :mcc: 276
+    :mnc: 3
+    :name: Eagle Mobile
+  - :mcc: 276
+    :mnc: 4
+    :name: Plus Communication
+Algeria:
+  :iso: DZ
+  :cc: 213
+  :mccs:
+  - 603
+  :operators:
+  - :mcc: 603
+    :mnc: 1
+    :name: Mobilis
+  - :mcc: 603
+    :mnc: 2
+    :name: Djezzy
+  - :mcc: 603
+    :mnc: 3
+    :name: Ooredoo
+American Samoa (United States of America):
+  :iso: AS
+  :cc: 0
+  :mccs:
+  - 544
+  :operators:
+  - :mcc: 544
+    :mnc: 11
+    :name: Bluesky
+Andorra:
+  :iso: AD
+  :cc: 376
+  :mccs:
+  - 213
+  :operators:
+  - :mcc: 213
+    :mnc: 3
+    :name: Mobiland
+Angola:
+  :iso: AO
+  :cc: 244
+  :mccs:
+  - 631
+  :operators:
+  - :mcc: 631
+    :mnc: 2
+    :name: UNITEL
+  - :mcc: 631
+    :mnc: 4
+    :name: MOVICEL
+Anguilla (United Kingdom):
+  :iso: AI
+  :cc: 0
+  :mccs:
+  - 365
+  :operators:
+  - :mcc: 365
+    :mnc: 10
+    :name: ''
+  - :mcc: 365
+    :mnc: 840
+    :name: LIME
+Antigua and Barbuda:
+  :iso: AG
+  :cc: 0
+  :mccs:
+  - 344
+  :operators:
+  - :mcc: 344
+    :mnc: 30
+    :name: APUA
+  - :mcc: 344
+    :mnc: 50
+    :name: Digicel
+  - :mcc: 344
+    :mnc: 920
+    :name: LIME
+  - :mcc: 344
+    :mnc: 930
+    :name: ''
+Argentina:
+  :iso: AR
+  :cc: 54
+  :mccs:
+  - 722
+  :operators:
+  - :mcc: 722
+    :mnc: 10
+    :name: Movistar
+  - :mcc: 722
+    :mnc: 20
+    :name: Nextel
+  - :mcc: 722
+    :mnc: 40
+    :name: Globalstar
+  - :mcc: 722
+    :mnc: 70
+    :name: Movistar
+  - :mcc: 722
+    :mnc: 310
+    :name: Claro
+  - :mcc: 722
+    :mnc: 320
+    :name: Claro
+  - :mcc: 722
+    :mnc: 330
+    :name: Claro
+  - :mcc: 722
+    :mnc: 340
+    :name: Personal
+  - :mcc: 722
+    :mnc: 350
+    :name: PORT-HABLE
+Armenia:
+  :iso: AM
+  :cc: 374
+  :mccs:
+  - 283
+  :operators:
+  - :mcc: 283
+    :mnc: 1
+    :name: Beeline
+  - :mcc: 283
+    :mnc: 4
+    :name: Karabakh Telecom
+  - :mcc: 283
+    :mnc: 5
+    :name: VivaCell-MTS
+  - :mcc: 283
+    :mnc: 10
+    :name: Orange
+Aruba (Kingdom of the Netherlands):
+  :iso: AW
+  :cc: 297
+  :mccs:
+  - 363
+  :operators:
+  - :mcc: 363
+    :mnc: 1
+    :name: SETAR
+  - :mcc: 363
+    :mnc: 2
+    :name: Digicel
+Australia:
+  :iso: AU
+  :cc: 61
+  :mccs:
+  - 505
+  :operators:
+  - :mcc: 505
+    :mnc: 1
+    :name: Telstra
+  - :mcc: 505
+    :mnc: 2
+    :name: Optus
+  - :mcc: 505
+    :mnc: 3
+    :name: Vodafone
+  - :mcc: 505
+    :mnc: 4
+    :name: ''
+  - :mcc: 505
+    :mnc: 5
+    :name: Ozitel
+  - :mcc: 505
+    :mnc: 6
+    :name: '3'
+  - :mcc: 505
+    :mnc: 7
+    :name: Vodafone
+  - :mcc: 505
+    :mnc: 8
+    :name: One.Tel
+  - :mcc: 505
+    :mnc: 9
+    :name: Airnet
+  - :mcc: 505
+    :mnc: 10
+    :name: Norfolk Is.
+  - :mcc: 505
+    :mnc: 11
+    :name: Telstra
+  - :mcc: 505
+    :mnc: 12
+    :name: '3'
+  - :mcc: 505
+    :mnc: 13
+    :name: Railcorp
+  - :mcc: 505
+    :mnc: 14
+    :name: AAPT
+  - :mcc: 505
+    :mnc: 15
+    :name: 3GIS
+  - :mcc: 505
+    :mnc: 16
+    :name: VicTrack
+  - :mcc: 505
+    :mnc: 17
+    :name: ''
+  - :mcc: 505
+    :mnc: 18
+    :name: Pactel
+  - :mcc: 505
+    :mnc: 19
+    :name: Lycamobile
+  - :mcc: 505
+    :mnc: 20
+    :name: ''
+  - :mcc: 505
+    :mnc: 21
+    :name: ''
+  - :mcc: 505
+    :mnc: 22
+    :name: ''
+  - :mcc: 505
+    :mnc: 23
+    :name: ''
+  - :mcc: 505
+    :mnc: 24
+    :name: ''
+  - :mcc: 505
+    :mnc: 25
+    :name: ''
+  - :mcc: 505
+    :mnc: 26
+    :name: ''
+  - :mcc: 505
+    :mnc: 27
+    :name: ''
+  - :mcc: 505
+    :mnc: 28
+    :name: ''
+  - :mcc: 505
+    :mnc: 38
+    :name: Crazy John's
+  - :mcc: 505
+    :mnc: 62
+    :name: NBN
+  - :mcc: 505
+    :mnc: 68
+    :name: NBN
+  - :mcc: 505
+    :mnc: 71
+    :name: Telstra
+  - :mcc: 505
+    :mnc: 72
+    :name: Telstra
+  - :mcc: 505
+    :mnc: 88
+    :name: Localstar Holding Pty. Ltd.
+  - :mcc: 505
+    :mnc: 90
+    :name: Optus
+  - :mcc: 505
+    :mnc: 99
+    :name: One.Tel
+Austria:
+  :iso: AT[15]
+  :cc: 0
+  :mccs:
+  - 232
+  :operators:
+  - :mcc: 232
+    :mnc: 1
+    :name: A1 TA
+  - :mcc: 232
+    :mnc: 2
+    :name: ''
+  - :mcc: 232
+    :mnc: 3
+    :name: T-Mobile AT
+  - :mcc: 232
+    :mnc: 4
+    :name: T-Mobile AT
+  - :mcc: 232
+    :mnc: 5
+    :name: Orange AT
+  - :mcc: 232
+    :mnc: 6
+    :name: Orange AT
+  - :mcc: 232
+    :mnc: 7
+    :name: tele.ring
+  - :mcc: 232
+    :mnc: 8
+    :name: ''
+  - :mcc: 232
+    :mnc: 9
+    :name: Tele2Mobil
+  - :mcc: 232
+    :mnc: 10
+    :name: 3AT
+  - :mcc: 232
+    :mnc: 11
+    :name: bob
+  - :mcc: 232
+    :mnc: 12
+    :name: yesss!
+  - :mcc: 232
+    :mnc: 13
+    :name: ''
+  - :mcc: 232
+    :mnc: 14
+    :name: ''
+  - :mcc: 232
+    :mnc: 15
+    :name: Vectone
+  - :mcc: 232
+    :mnc: 16
+    :name: ''
+  - :mcc: 232
+    :mnc: 91
+    :name: GSM-R A
+Azerbaijan:
+  :iso: AZ
+  :cc: 994
+  :mccs:
+  - 400
+  :operators:
+  - :mcc: 400
+    :mnc: 1
+    :name: Azercell
+  - :mcc: 400
+    :mnc: 2
+    :name: Bakcell
+  - :mcc: 400
+    :mnc: 3
+    :name: FONEX
+  - :mcc: 400
+    :mnc: 4
+    :name: Nar Mobile
+Bahamas:
+  :iso: BS
+  :cc: 0
+  :mccs:
+  - 364
+  :operators:
+  - :mcc: 364
+    :mnc: 39
+    :name: BaTelCo
+Bahrain:
+  :iso: BH
+  :cc: 973
+  :mccs:
+  - 426
+  :operators:
+  - :mcc: 426
+    :mnc: 1
+    :name: Batelco
+  - :mcc: 426
+    :mnc: 2
+    :name: zain BH
+  - :mcc: 426
+    :mnc: 3
+    :name: ''
+  - :mcc: 426
+    :mnc: 4
+    :name: VIVA Bahrain
+  - :mcc: 426
+    :mnc: 5
+    :name: Batelco
+Bangladesh:
+  :iso: BD
+  :cc: 880
+  :mccs:
+  - 470
+  :operators:
+  - :mcc: 470
+    :mnc: 1
+    :name: Grameenphone
+  - :mcc: 470
+    :mnc: 2
+    :name: Robi
+  - :mcc: 470
+    :mnc: 3
+    :name: Banglalink
+  - :mcc: 470
+    :mnc: 4
+    :name: TeleTalk
+  - :mcc: 470
+    :mnc: 5
+    :name: Citycell
+  - :mcc: 470
+    :mnc: 6
+    :name: Beeong3G Warid Telekom
+  - :mcc: 470
+    :mnc: 7
+    :name: Airtel
+Barbados:
+  :iso: BB
+  :cc: 0
+  :mccs:
+  - 342
+  :operators:
+  - :mcc: 342
+    :mnc: 600
+    :name: LIME
+  - :mcc: 342
+    :mnc: 750
+    :name: Digicel
+  - :mcc: 342
+    :mnc: 820
+    :name: ''
+Belarus:
+  :iso: BY
+  :cc: 375
+  :mccs:
+  - 257
+  :operators:
+  - :mcc: 257
+    :mnc: 1
+    :name: velcom
+  - :mcc: 257
+    :mnc: 2
+    :name: MTS
+  - :mcc: 257
+    :mnc: 3
+    :name: DIALLOG
+  - :mcc: 257
+    :mnc: 4
+    :name: life:)
+  - :mcc: 257
+    :mnc: 5
+    :name: ''
+  - :mcc: 257
+    :mnc: 6
+    :name: ''
+  - :mcc: 257
+    :mnc: 501
+    :name: BelCel JV
+Belgium:
+  :iso: BE
+  :cc: 32
+  :mccs:
+  - 206
+  :operators:
+  - :mcc: 206
+    :mnc: 1
+    :name: Proximus
+  - :mcc: 206
+    :mnc: 2
+    :name: ''
+  - :mcc: 206
+    :mnc: 5
+    :name: Telenet
+  - :mcc: 206
+    :mnc: 6
+    :name: Lycamobile
+  - :mcc: 206
+    :mnc: 7
+    :name: Vectone Mobile
+  - :mcc: 206
+    :mnc: 9
+    :name: Voxbone
+  - :mcc: 206
+    :mnc: 10
+    :name: Mobistar
+  - :mcc: 206
+    :mnc: 15
+    :name: ''
+  - :mcc: 206
+    :mnc: 20
+    :name: BASE
+Belize:
+  :iso: BZ
+  :cc: 501
+  :mccs:
+  - 702
+  :operators:
+  - :mcc: 702
+    :mnc: 67
+    :name: DigiCell
+  - :mcc: 702
+    :mnc: 68
+    :name: INTELCO
+  - :mcc: 702
+    :mnc: 99
+    :name: Smart
+Benin:
+  :iso: BJ
+  :cc: 229
+  :mccs:
+  - 616
+  :operators:
+  - :mcc: 616
+    :mnc: 1
+    :name: Libercom
+  - :mcc: 616
+    :mnc: 2
+    :name: Moov
+  - :mcc: 616
+    :mnc: 3
+    :name: MTN
+  - :mcc: 616
+    :mnc: 4
+    :name: BBCOM
+  - :mcc: 616
+    :mnc: 4
+    :name: BLK
+  - :mcc: 616
+    :mnc: 5
+    :name: Glo
+Bermuda:
+  :iso: BM
+  :cc: 0
+  :mccs:
+  - 310
+  - 338
+  - 350
+  :operators:
+  - :mcc: 310
+    :mnc: 59
+    :name: Cellular One
+  - :mcc: 338
+    :mnc: 50
+    :name: Digicel Bermuda
+  - :mcc: 350
+    :mnc: 0
+    :name: CellOne
+  - :mcc: 350
+    :mnc: 1
+    :name: Digicel Bermuda
+  - :mcc: 350
+    :mnc: 2
+    :name: Mobility
+Bhutan:
+  :iso: BT
+  :cc: 975
+  :mccs:
+  - 402
+  :operators:
+  - :mcc: 402
+    :mnc: 11
+    :name: B-Mobile
+  - :mcc: 402
+    :mnc: 77
+    :name: TashiCell
+Bolivia:
+  :iso: BO
+  :cc: 591
+  :mccs:
+  - 736
+  :operators:
+  - :mcc: 736
+    :mnc: 1
+    :name: Nuevatel
+  - :mcc: 736
+    :mnc: 2
+    :name: Entel
+  - :mcc: 736
+    :mnc: 3
+    :name: Tigo
+Bosnia and Herzegovina:
+  :iso: BA
+  :cc: 387
+  :mccs:
+  - 218
+  :operators:
+  - :mcc: 218
+    :mnc: 3
+    :name: HT-ERONET
+  - :mcc: 218
+    :mnc: 5
+    :name: m:tel
+  - :mcc: 218
+    :mnc: 90
+    :name: BH Mobile
+Botswana:
+  :iso: BW
+  :cc: 267
+  :mccs:
+  - 652
+  :operators:
+  - :mcc: 652
+    :mnc: 1
+    :name: Mascom
+  - :mcc: 652
+    :mnc: 2
+    :name: Orange
+  - :mcc: 652
+    :mnc: 4
+    :name: BTC Mobile
+Brazil:
+  :iso: BR
+  :cc: 55
+  :mccs:
+  - 724
+  :operators:
+  - :mcc: 724
+    :mnc: 0
+    :name: Nextel
+  - :mcc: 724
+    :mnc: 2
+    :name: TIM
+  - :mcc: 724
+    :mnc: 3
+    :name: TIM
+  - :mcc: 724
+    :mnc: 4
+    :name: TIM
+  - :mcc: 724
+    :mnc: 5
+    :name: Claro BR
+  - :mcc: 724
+    :mnc: 55
+    :name: Sercomtel
+  - :mcc: 724
+    :mnc: 6
+    :name: Vivo
+  - :mcc: 724
+    :mnc: 10
+    :name: Vivo
+  - :mcc: 724
+    :mnc: 11
+    :name: Vivo
+  - :mcc: 724
+    :mnc: 15
+    :name: CTBC Celular
+  - :mcc: 724
+    :mnc: 16
+    :name: Brasil Telecom GSM
+  - :mcc: 724
+    :mnc: 23
+    :name: Vivo
+  - :mcc: 724
+    :mnc: 31
+    :name: Oi
+  - :mcc: 724
+    :mnc: 32
+    :name: CTBC Celular
+  - :mcc: 724
+    :mnc: 33
+    :name: CTBC Celular
+  - :mcc: 724
+    :mnc: 34
+    :name: CTBC Celular
+  - :mcc: 724
+    :mnc: 39
+    :name: Nextel
+British Virgin Islands (United Kingdom):
+  :iso: VG
+  :cc: 0
+  :mccs:
+  - 348
+  :operators:
+  - :mcc: 348
+    :mnc: 170
+    :name: LIME
+  - :mcc: 348
+    :mnc: 370
+    :name: ''
+  - :mcc: 348
+    :mnc: 570
+    :name: CCT Boatphone
+  - :mcc: 348
+    :mnc: 770
+    :name: Digicel
+Brunei:
+  :iso: BN
+  :cc: 673
+  :mccs:
+  - 528
+  :operators:
+  - :mcc: 528
+    :mnc: 1
+    :name: ''
+  - :mcc: 528
+    :mnc: 2
+    :name: B-Mobile
+  - :mcc: 528
+    :mnc: 11
+    :name: DSTCom
+Bulgaria:
+  :iso: BG
+  :cc: 359
+  :mccs:
+  - 284
+  :operators:
+  - :mcc: 284
+    :mnc: 1
+    :name: M-Tel
+  - :mcc: 284
+    :mnc: 3
+    :name: Vivacom
+  - :mcc: 284
+    :mnc: 5
+    :name: GLOBUL
+  - :mcc: 284
+    :mnc: 7
+    :name: "НКЖИ"
+  - :mcc: 284
+    :mnc: 9
+    :name: COMPATEL LIMITED
+  - :mcc: 284
+    :mnc: 11
+    :name: Bulsatcom
+  - :mcc: 284
+    :mnc: 13
+    :name: Max Telecom
+Burkina Faso:
+  :iso: BF
+  :cc: 226
+  :mccs:
+  - 613
+  :operators:
+  - :mcc: 613
+    :mnc: 1
+    :name: Telmob
+  - :mcc: 613
+    :mnc: 2
+    :name: Airtel
+  - :mcc: 613
+    :mnc: 3
+    :name: Telecel Faso
+Burundi:
+  :iso: BI
+  :cc: 257
+  :mccs:
+  - 642
+  :operators:
+  - :mcc: 642
+    :mnc: 1
+    :name: Spacetel
+  - :mcc: 642
+    :mnc: 2
+    :name: Tempo
+  - :mcc: 642
+    :mnc: 3
+    :name: Onatel
+  - :mcc: 642
+    :mnc: 7
+    :name: Smart Mobile
+  - :mcc: 642
+    :mnc: 8
+    :name: HiTs Telecom
+  - :mcc: 642
+    :mnc: 82
+    :name: Leo
+Cambodia:
+  :iso: KH
+  :cc: 855
+  :mccs:
+  - 456
+  :operators:
+  - :mcc: 456
+    :mnc: 1
+    :name: Cellcard
+  - :mcc: 456
+    :mnc: 2
+    :name: Smart
+  - :mcc: 456
+    :mnc: 3
+    :name: qb
+  - :mcc: 456
+    :mnc: 4
+    :name: qb
+  - :mcc: 456
+    :mnc: 5
+    :name: Smart
+  - :mcc: 456
+    :mnc: 6
+    :name: Smart
+  - :mcc: 456
+    :mnc: 8
+    :name: Cellcard
+  - :mcc: 456
+    :mnc: 9
+    :name: Beeline
+  - :mcc: 456
+    :mnc: 11
+    :name: Excell
+  - :mcc: 456
+    :mnc: 18
+    :name: Cellcard
+Cameroon:
+  :iso: CM
+  :cc: 237
+  :mccs:
+  - 624
+  :operators:
+  - :mcc: 624
+    :mnc: 1
+    :name: MTN Cameroon
+  - :mcc: 624
+    :mnc: 2
+    :name: Orange
+Canada:
+  :iso: CA
+  :cc: 1
+  :mccs:
+  - 302
+  :operators:
+  - :mcc: 302
+    :mnc: 220
+    :name: Telus
+  - :mcc: 302
+    :mnc: 221
+    :name: Telus
+  - :mcc: 302
+    :mnc: 222
+    :name: Telus
+  - :mcc: 302
+    :mnc: 250
+    :name: ALO[disambiguation needed]
+  - :mcc: 302
+    :mnc: 270
+    :name: EastLink
+  - :mcc: 302
+    :mnc: 290
+    :name: Airtel Wireless
+  - :mcc: 302
+    :mnc: 320
+    :name: Mobilicity
+  - :mcc: 302
+    :mnc: 340
+    :name: Execulink
+  - :mcc: 302
+    :mnc: 350
+    :name: FIRST
+  - :mcc: 302
+    :mnc: 360
+    :name: MiKe
+  - :mcc: 302
+    :mnc: 361
+    :name: Telus
+  - :mcc: 302
+    :mnc: 370
+    :name: Fido
+  - :mcc: 302
+    :mnc: 380
+    :name: DMTS
+  - :mcc: 302
+    :mnc: 480
+    :name: SSi Connexions
+  - :mcc: 302
+    :mnc: 490
+    :name: WIND Mobile
+  - :mcc: 302
+    :mnc: 500
+    :name: Videotron
+  - :mcc: 302
+    :mnc: 510
+    :name: Videotron
+  - :mcc: 302
+    :mnc: 530
+    :name: Keewatinook Okimakanak Mobile
+  - :mcc: 302
+    :mnc: 560
+    :name: Lynx Mobility
+  - :mcc: 302
+    :mnc: 570
+    :name: LightSquared
+  - :mcc: 302
+    :mnc: 590
+    :name: Quadro Communication
+  - :mcc: 302
+    :mnc: 610
+    :name: Bell
+  - :mcc: 302
+    :mnc: 620
+    :name: ICE Wireless
+  - :mcc: 302
+    :mnc: 630
+    :name: Aliant Mobility
+  - :mcc: 302
+    :mnc: 640
+    :name: Bell
+  - :mcc: 302
+    :mnc: 652
+    :name: ''
+  - :mcc: 302
+    :mnc: 653
+    :name: Telus
+  - :mcc: 302
+    :mnc: 655
+    :name: MTS
+  - :mcc: 302
+    :mnc: 656
+    :name: TBay
+  - :mcc: 302
+    :mnc: 657
+    :name: Telus
+  - :mcc: 302
+    :mnc: 660
+    :name: MTS
+  - :mcc: 302
+    :mnc: 670
+    :name: CityTel Mobility
+  - :mcc: 302
+    :mnc: 680
+    :name: SaskTel
+  - :mcc: 302
+    :mnc: 690
+    :name: Bell
+  - :mcc: 302
+    :mnc: 701
+    :name: ''
+  - :mcc: 302
+    :mnc: 702
+    :name: ''
+  - :mcc: 302
+    :mnc: 703
+    :name: ''
+  - :mcc: 302
+    :mnc: 710
+    :name: Globalstar
+  - :mcc: 302
+    :mnc: 720
+    :name: Rogers Wireless
+  - :mcc: 302
+    :mnc: 730
+    :name: TerreStar Solutions
+  - :mcc: 302
+    :mnc: 740
+    :name: Shaw Telecom G.P.
+  - :mcc: 302
+    :mnc: 750
+    :name: SaskTel
+  - :mcc: 302
+    :mnc: 760
+    :name: Public Mobile Inc.
+  - :mcc: 302
+    :mnc: 770
+    :name: Rural Com
+  - :mcc: 302
+    :mnc: 780
+    :name: SaskTel
+  - :mcc: 302
+    :mnc: 860
+    :name: Telus
+  - :mcc: 302
+    :mnc: 880
+    :name: Bell / Telus / SaskTel
+  - :mcc: 302
+    :mnc: 940
+    :name: Wightman Telecom
+Cape Verde:
+  :iso: CV
+  :cc: 238
+  :mccs:
+  - 625
+  :operators:
+  - :mcc: 625
+    :mnc: 1
+    :name: CVMOVEL
+  - :mcc: 625
+    :mnc: 2
+    :name: T+
+Cayman Islands (United Kingdom):
+  :iso: KY
+  :cc: 0
+  :mccs:
+  - 346
+  :operators:
+  - :mcc: 346
+    :mnc: 140
+    :name: LIME
+  - :mcc: 346
+    :mnc: 50
+    :name: Digicel
+Central African Republic:
+  :iso: CF
+  :cc: 236
+  :mccs:
+  - 623
+  :operators:
+  - :mcc: 623
+    :mnc: 1
+    :name: CTP
+  - :mcc: 623
+    :mnc: 2
+    :name: TC
+  - :mcc: 623
+    :mnc: 3
+    :name: Orange
+  - :mcc: 623
+    :mnc: 4
+    :name: Nationlink
+Chad:
+  :iso: TD
+  :cc: 235
+  :mccs:
+  - 622
+  :operators:
+  - :mcc: 622
+    :mnc: 1
+    :name: Airtel
+  - :mcc: 622
+    :mnc: 2
+    :name: Tchad Mobile
+  - :mcc: 622
+    :mnc: 2
+    :name: Tawali
+  - :mcc: 622
+    :mnc: 3
+    :name: Tigo
+  - :mcc: 622
+    :mnc: 4
+    :name: Salam
+Chile:
+  :iso: CL
+  :cc: 56
+  :mccs:
+  - 730
+  :operators:
+  - :mcc: 730
+    :mnc: 1
+    :name: entel
+  - :mcc: 730
+    :mnc: 2
+    :name: movistar
+  - :mcc: 730
+    :mnc: 3
+    :name: Claro
+  - :mcc: 730
+    :mnc: 4
+    :name: Nextel
+  - :mcc: 730
+    :mnc: 5
+    :name: ''
+  - :mcc: 730
+    :mnc: 6
+    :name: ''
+  - :mcc: 730
+    :mnc: 7
+    :name: Virgin Mobile
+  - :mcc: 730
+    :mnc: 8
+    :name: VTR Móvil
+  - :mcc: 730
+    :mnc: 9
+    :name: Nextel
+  - :mcc: 730
+    :mnc: 10
+    :name: entel
+  - :mcc: 730
+    :mnc: 11
+    :name: ''
+  - :mcc: 730
+    :mnc: 12
+    :name: ''
+  - :mcc: 730
+    :mnc: 13
+    :name: ''
+  - :mcc: 730
+    :mnc: 14
+    :name: ''
+  - :mcc: 730
+    :mnc: 15
+    :name: ''
+  - :mcc: 730
+    :mnc: 99
+    :name: Will
+China:
+  :iso: CN
+  :cc: 86
+  :mccs:
+  - 460
+  :operators:
+  - :mcc: 460
+    :mnc: 0
+    :name: China Mobile
+  - :mcc: 460
+    :mnc: 1
+    :name: China Unicom
+  - :mcc: 460
+    :mnc: 2
+    :name: China Mobile
+  - :mcc: 460
+    :mnc: 3
+    :name: China Telecom
+  - :mcc: 460
+    :mnc: 4
+    :name: ''
+  - :mcc: 460
+    :mnc: 5
+    :name: China Telecom
+  - :mcc: 460
+    :mnc: 6
+    :name: China Unicom
+  - :mcc: 460
+    :mnc: 7
+    :name: China Mobile
+  - :mcc: 460
+    :mnc: 20
+    :name: China Tietong
+Christmas Island (Australia):
+  :iso: CX
+  :cc: 61
+  :mccs:
+  - 0
+  :operators:
+  - :mcc: 0
+    :mnc: 0
+    :name: ''
+Cocos Islands (Australia):
+  :iso: CC
+  :cc: 61
+  :mccs:
+  - 0
+  :operators:
+  - :mcc: 0
+    :mnc: 0
+    :name: ''
+Colombia:
+  :iso: CO
+  :cc: 57
+  :mccs:
+  - 732
+  :operators:
+  - :mcc: 732
+    :mnc: 1
+    :name: ''
+  - :mcc: 732
+    :mnc: 2
+    :name: Edatel
+  - :mcc: 732
+    :mnc: 20
+    :name: ''
+  - :mcc: 732
+    :mnc: 99
+    :name: EMCALI
+  - :mcc: 732
+    :mnc: 101
+    :name: Claro
+  - :mcc: 732
+    :mnc: 102
+    :name: movistar
+  - :mcc: 732
+    :mnc: 103
+    :name: Tigo
+  - :mcc: 732
+    :mnc: 111
+    :name: Tigo
+  - :mcc: 732
+    :mnc: 123
+    :name: movistar
+  - :mcc: 732
+    :mnc: 130
+    :name: AVANTEL
+Comoros:
+  :iso: KM
+  :cc: 269
+  :mccs:
+  - 654
+  :operators:
+  - :mcc: 654
+    :mnc: 1
+    :name: ''
+Republic of the Congo:
+  :iso: CG
+  :cc: 242
+  :mccs:
+  - 629
+  :operators:
+  - :mcc: 629
+    :mnc: 1
+    :name: Airtel
+  - :mcc: 629
+    :mnc: 7
+    :name: ''
+  - :mcc: 629
+    :mnc: 10
+    :name: Libertis Telecom
+Cook Islands (New Zealand):
+  :iso: CK
+  :cc: 682
+  :mccs:
+  - 548
+  :operators:
+  - :mcc: 548
+    :mnc: 1
+    :name: ''
+Costa Rica:
+  :iso: CR
+  :cc: 506
+  :mccs:
+  - 712
+  :operators:
+  - :mcc: 712
+    :mnc: 1
+    :name: Kolbi ICE
+  - :mcc: 712
+    :mnc: 2
+    :name: Kolbi ICE
+  - :mcc: 712
+    :mnc: 3
+    :name: Claro
+  - :mcc: 712
+    :mnc: 4
+    :name: movistar
+  - :mcc: 712
+    :mnc: 20
+    :name: fullmóvil
+Croatia:
+  :iso: HR
+  :cc: 385
+  :mccs:
+  - 219
+  :operators:
+  - :mcc: 219
+    :mnc: 1
+    :name: T-Mobile
+  - :mcc: 219
+    :mnc: 2
+    :name: Tele2
+  - :mcc: 219
+    :mnc: 10
+    :name: Vip
+Cuba:
+  :iso: CU
+  :cc: 53
+  :mccs:
+  - 368
+  :operators:
+  - :mcc: 368
+    :mnc: 1
+    :name: CUBACEL
+Cyprus:
+  :iso: CY
+  :cc: 357
+  :mccs:
+  - 280
+  :operators:
+  - :mcc: 280
+    :mnc: 1
+    :name: Cytamobile-Vodafone
+  - :mcc: 280
+    :mnc: 10
+    :name: MTN
+  - :mcc: 280
+    :mnc: 20
+    :name: PrimeTel
+  - :mcc: 280
+    :mnc: 22
+    :name: lemontel
+Czech Republic:
+  :iso: CZ[46]
+  :cc: 0
+  :mccs:
+  - 230
+  :operators:
+  - :mcc: 230
+    :mnc: 1
+    :name: T-Mobile
+  - :mcc: 230
+    :mnc: 2
+    :name: O2
+  - :mcc: 230
+    :mnc: 3
+    :name: Vodafone
+  - :mcc: 230
+    :mnc: 4
+    :name: U:fon
+  - :mcc: 230
+    :mnc: 5
+    :name: ''
+  - :mcc: 230
+    :mnc: 6
+    :name: ''
+  - :mcc: 230
+    :mnc: 7
+    :name: ''
+  - :mcc: 230
+    :mnc: 8
+    :name: ''
+  - :mcc: 230
+    :mnc: 98
+    :name: ''
+  - :mcc: 230
+    :mnc: 99
+    :name: Vodafone
+Democratic Republic of the Congo:
+  :iso: CD
+  :cc: 243
+  :mccs:
+  - 630
+  :operators:
+  - :mcc: 630
+    :mnc: 1
+    :name: Vodacom
+  - :mcc: 630
+    :mnc: 2
+    :name: airtel
+  - :mcc: 630
+    :mnc: 4
+    :name: ''
+  - :mcc: 630
+    :mnc: 5
+    :name: Supercell
+  - :mcc: 630
+    :mnc: 10
+    :name: Libertis Telecom
+  - :mcc: 630
+    :mnc: 86
+    :name: Orange
+  - :mcc: 630
+    :mnc: 88
+    :name: YTT
+  - :mcc: 630
+    :mnc: 89
+    :name: Tigo
+  - :mcc: 630
+    :mnc: 90
+    :name: Africell
+Denmark (Kingdom of Denmark):
+  :iso: DK
+  :cc: 45
+  :mccs:
+  - 238
+  :operators:
+  - :mcc: 238
+    :mnc: 1
+    :name: TDC
+  - :mcc: 238
+    :mnc: 2
+    :name: Telenor
+  - :mcc: 238
+    :mnc: 3
+    :name: End2End
+  - :mcc: 238
+    :mnc: 4
+    :name: ''
+  - :mcc: 238
+    :mnc: 5
+    :name: TetraNet
+  - :mcc: 238
+    :mnc: 6
+    :name: '3'
+  - :mcc: 238
+    :mnc: 7
+    :name: Vectone Mobile
+  - :mcc: 238
+    :mnc: 8
+    :name: Voxbone
+  - :mcc: 238
+    :mnc: 9
+    :name: SINE
+  - :mcc: 238
+    :mnc: 10
+    :name: TDC
+  - :mcc: 238
+    :mnc: 11
+    :name: SINE
+  - :mcc: 238
+    :mnc: 12
+    :name: Lycamobile
+  - :mcc: 238
+    :mnc: 13
+    :name: ''
+  - :mcc: 238
+    :mnc: 20
+    :name: Telia
+  - :mcc: 238
+    :mnc: 23
+    :name: GSM-R DK
+  - :mcc: 238
+    :mnc: 28
+    :name: ''
+  - :mcc: 238
+    :mnc: 30
+    :name: ''
+  - :mcc: 238
+    :mnc: 40
+    :name: ''
+  - :mcc: 238
+    :mnc: 43
+    :name: ''
+  - :mcc: 238
+    :mnc: 66
+    :name: ''
+  - :mcc: 238
+    :mnc: 77
+    :name: Telenor
+Djibouti:
+  :iso: DJ
+  :cc: 253
+  :mccs:
+  - 638
+  :operators:
+  - :mcc: 638
+    :mnc: 1
+    :name: Evatis
+Dominica:
+  :iso: DM
+  :cc: 0
+  :mccs:
+  - 366
+  :operators:
+  - :mcc: 366
+    :mnc: 20
+    :name: Digicel
+  - :mcc: 366
+    :mnc: 110
+    :name: ''
+Dominican Republic:
+  :iso: DO
+  :cc: 0
+  :mccs:
+  - 370
+  :operators:
+  - :mcc: 370
+    :mnc: 1
+    :name: Orange
+  - :mcc: 370
+    :mnc: 2
+    :name: Claro
+  - :mcc: 370
+    :mnc: 3
+    :name: Tricom
+  - :mcc: 370
+    :mnc: 4
+    :name: Viva
+East Timor:
+  :iso: TL
+  :cc: 670
+  :mccs:
+  - 514
+  :operators:
+  - :mcc: 514
+    :mnc: 1
+    :name: Telin Telkomcel
+  - :mcc: 514
+    :mnc: 2
+    :name: ''
+  - :mcc: 514
+    :mnc: 3
+    :name: ''
+Ecuador:
+  :iso: EC
+  :cc: 593
+  :mccs:
+  - 740
+  :operators:
+  - :mcc: 740
+    :mnc: 0
+    :name: Movistar
+  - :mcc: 740
+    :mnc: 1
+    :name: Claro
+  - :mcc: 740
+    :mnc: 2
+    :name: CNT Mobile
+Egypt:
+  :iso: EG
+  :cc: 20
+  :mccs:
+  - 602
+  :operators:
+  - :mcc: 602
+    :mnc: 1
+    :name: Mobinil
+  - :mcc: 602
+    :mnc: 2
+    :name: Vodafone
+  - :mcc: 602
+    :mnc: 3
+    :name: Etisalat
+El Salvador:
+  :iso: SV
+  :cc: 503
+  :mccs:
+  - 706
+  :operators:
+  - :mcc: 706
+    :mnc: 1
+    :name: CTE Telecom Personal, Claro
+  - :mcc: 706
+    :mnc: 2
+    :name: digicel
+  - :mcc: 706
+    :mnc: 3
+    :name: Tigo
+  - :mcc: 706
+    :mnc: 4
+    :name: movistar
+Equatorial Guinea:
+  :iso: GQ
+  :cc: 240
+  :mccs:
+  - 627
+  :operators:
+  - :mcc: 627
+    :mnc: 1
+    :name: Orange GQ
+  - :mcc: 627
+    :mnc: 3
+    :name: Hits GQ
+Eritrea:
+  :iso: ER
+  :cc: 291
+  :mccs:
+  - 657
+  :operators:
+  - :mcc: 657
+    :mnc: 1
+    :name: Eritel
+Estonia:
+  :iso: EE
+  :cc: 372
+  :mccs:
+  - 248
+  :operators:
+  - :mcc: 248
+    :mnc: 1
+    :name: EMT
+  - :mcc: 248
+    :mnc: 2
+    :name: Elisa
+  - :mcc: 248
+    :mnc: 3
+    :name: Tele 2
+  - :mcc: 248
+    :mnc: 4
+    :name: ''
+  - :mcc: 248
+    :mnc: 5
+    :name: ''
+  - :mcc: 248
+    :mnc: 6
+    :name: ''
+  - :mcc: 248
+    :mnc: 7
+    :name: ''
+  - :mcc: 248
+    :mnc: 8
+    :name: VIVEX
+  - :mcc: 248
+    :mnc: 9
+    :name: ''
+  - :mcc: 248
+    :mnc: 71
+    :name: ''
+Ethiopia:
+  :iso: ET
+  :cc: 251
+  :mccs:
+  - 636
+  :operators:
+  - :mcc: 636
+    :mnc: 1
+    :name: ETH-MTN
+Faroe Islands (Kingdom of Denmark):
+  :iso: FO
+  :cc: 298
+  :mccs:
+  - 288
+  :operators:
+  - :mcc: 288
+    :mnc: 1
+    :name: Faroese Telecom
+  - :mcc: 288
+    :mnc: 2
+    :name: Vodafone
+  - :mcc: 288
+    :mnc: 3
+    :name: ''
+Fiji:
+  :iso: FJ
+  :cc: 679
+  :mccs:
+  - 542
+  :operators:
+  - :mcc: 542
+    :mnc: 1
+    :name: Vodafone
+  - :mcc: 542
+    :mnc: 2
+    :name: Digicel
+  - :mcc: 542
+    :mnc: 3
+    :name: ''
+Finland:
+  :iso: FI
+  :cc: 358
+  :mccs:
+  - 244
+  :operators:
+  - :mcc: 244
+    :mnc: 3
+    :name: DNA
+  - :mcc: 244
+    :mnc: 4
+    :name: AINA
+  - :mcc: 244
+    :mnc: 5
+    :name: Elisa
+  - :mcc: 244
+    :mnc: 7
+    :name: Nokia
+  - :mcc: 244
+    :mnc: 8
+    :name: Nokia
+  - :mcc: 244
+    :mnc: 9
+    :name: Finnet Group / Nokia Solutions and Networks
+  - :mcc: 244
+    :mnc: 10
+    :name: TDC
+  - :mcc: 244
+    :mnc: 11
+    :name: Vectone Mobile
+  - :mcc: 244
+    :mnc: 12
+    :name: DNA
+  - :mcc: 244
+    :mnc: 13
+    :name: DNA
+  - :mcc: 244
+    :mnc: 14
+    :name: "Ålcom"
+  - :mcc: 244
+    :mnc: 15
+    :name: SAMK
+  - :mcc: 244
+    :mnc: 16
+    :name: ''
+  - :mcc: 244
+    :mnc: 21
+    :name: Saunalahti
+  - :mcc: 244
+    :mnc: 25
+    :name: Datame
+  - :mcc: 244
+    :mnc: 26
+    :name: Compatel
+  - :mcc: 244
+    :mnc: 29
+    :name: ''
+  - :mcc: 244
+    :mnc: 30
+    :name: Vectone Mobile
+  - :mcc: 244
+    :mnc: 31
+    :name: Ukko Mobile
+  - :mcc: 244
+    :mnc: 32
+    :name: Voxbone
+  - :mcc: 244
+    :mnc: 91
+    :name: Sonera
+France:
+  :iso: FR
+  :cc: 33
+  :mccs:
+  - 208
+  :operators:
+  - :mcc: 208
+    :mnc: 1
+    :name: Orange
+  - :mcc: 208
+    :mnc: 2
+    :name: Orange
+  - :mcc: 208
+    :mnc: 3
+    :name: MobiquiThings
+  - :mcc: 208
+    :mnc: 4
+    :name: Sisteer
+  - :mcc: 208
+    :mnc: 5
+    :name: ''
+  - :mcc: 208
+    :mnc: 6
+    :name: ''
+  - :mcc: 208
+    :mnc: 7
+    :name: ''
+  - :mcc: 208
+    :mnc: 8
+    :name: Completel Mobile
+  - :mcc: 208
+    :mnc: 9
+    :name: SFR
+  - :mcc: 208
+    :mnc: 10
+    :name: SFR
+  - :mcc: 208
+    :mnc: 11
+    :name: SFR
+  - :mcc: 208
+    :mnc: 13
+    :name: SFR
+  - :mcc: 208
+    :mnc: 14
+    :name: RFF
+  - :mcc: 208
+    :mnc: 15
+    :name: Free Mobile
+  - :mcc: 208
+    :mnc: 16
+    :name: Free Mobile
+  - :mcc: 208
+    :mnc: 17
+    :name: LEGOS
+  - :mcc: 208
+    :mnc: 18
+    :name: Voxbone
+  - :mcc: 208
+    :mnc: 20
+    :name: Bouygues
+  - :mcc: 208
+    :mnc: 21
+    :name: Bouygues
+  - :mcc: 208
+    :mnc: 22
+    :name: Transatel Mobile
+  - :mcc: 208
+    :mnc: 23
+    :name: Virgin Mobile (MVNO)
+  - :mcc: 208
+    :mnc: 24
+    :name: MobiquiThings
+  - :mcc: 208
+    :mnc: 25
+    :name: LycaMobile
+  - :mcc: 208
+    :mnc: 26
+    :name: NRJ Mobile (MVNO)
+  - :mcc: 208
+    :mnc: 27
+    :name: ''
+  - :mcc: 208
+    :mnc: 28
+    :name: ''
+  - :mcc: 208
+    :mnc: 29
+    :name: ''
+  - :mcc: 208
+    :mnc: 30
+    :name: ''
+  - :mcc: 208
+    :mnc: 31
+    :name: Vectone
+  - :mcc: 208
+    :mnc: 88
+    :name: Bouygues
+  - :mcc: 208
+    :mnc: 89
+    :name: ''
+  - :mcc: 208
+    :mnc: 90
+    :name: ''
+  - :mcc: 208
+    :mnc: 91
+    :name: ''
+  - :mcc: 208
+    :mnc: 92
+    :name: Com4Innov
+  - :mcc: 208
+    :mnc: 93
+    :name: ''
+French Guiana (France):
+  :iso: GF
+  :cc: 0
+  :mccs:
+  - 0
+  :operators:
+  - :mcc: 0
+    :mnc: 0
+    :name: ''
+French Polynesia (France):
+  :iso: PF
+  :cc: 689
+  :mccs:
+  - 547
+  :operators:
+  - :mcc: 547
+    :mnc: 10
+    :name: ''
+  - :mcc: 547
+    :mnc: 15
+    :name: Vodafone
+  - :mcc: 547
+    :mnc: 20
+    :name: Vini
+French Southern Territories (France):
+  :iso: TF
+  :cc: 0
+  :mccs:
+  - 0
+  :operators:
+  - :mcc: 0
+    :mnc: 0
+    :name: ''
+Gabon:
+  :iso: GA
+  :cc: 241
+  :mccs:
+  - 628
+  :operators:
+  - :mcc: 628
+    :mnc: 1
+    :name: Libertis
+  - :mcc: 628
+    :mnc: 2
+    :name: Moov
+  - :mcc: 628
+    :mnc: 3
+    :name: Airtel
+  - :mcc: 628
+    :mnc: 4
+    :name: Azur
+  - :mcc: 628
+    :mnc: 5
+    :name: RAG
+Gambia:
+  :iso: GM
+  :cc: 220
+  :mccs:
+  - 607
+  :operators:
+  - :mcc: 607
+    :mnc: 1
+    :name: Gamcel
+  - :mcc: 607
+    :mnc: 2
+    :name: Africel
+  - :mcc: 607
+    :mnc: 3
+    :name: Comium
+  - :mcc: 607
+    :mnc: 4
+    :name: QCell
+Georgia:
+  :iso: GE
+  :cc: 995
+  :mccs:
+  - 282
+  :operators:
+  - :mcc: 282
+    :mnc: 1
+    :name: Geocell
+  - :mcc: 282
+    :mnc: 2
+    :name: MagtiCom
+  - :mcc: 282
+    :mnc: 3
+    :name: MagtiCom
+  - :mcc: 282
+    :mnc: 4
+    :name: Beeline
+  - :mcc: 282
+    :mnc: 5
+    :name: Silknet
+  - :mcc: 282
+    :mnc: 6
+    :name: ''
+  - :mcc: 282
+    :mnc: 7
+    :name: ''
+Germany:
+  :iso: DE
+  :cc: 49
+  :mccs:
+  - 262
+  :operators:
+  - :mcc: 262
+    :mnc: 1
+    :name: Telekom
+  - :mcc: 262
+    :mnc: 2
+    :name: Vodafone
+  - :mcc: 262
+    :mnc: 3
+    :name: E-Plus
+  - :mcc: 262
+    :mnc: 4
+    :name: Vodafone
+  - :mcc: 262
+    :mnc: 5
+    :name: E-Plus
+  - :mcc: 262
+    :mnc: 6
+    :name: T-Mobile
+  - :mcc: 262
+    :mnc: 7
+    :name: O2
+  - :mcc: 262
+    :mnc: 8
+    :name: O2
+  - :mcc: 262
+    :mnc: 9
+    :name: Vodafone
+  - :mcc: 262
+    :mnc: 10
+    :name: ''
+  - :mcc: 262
+    :mnc: 11
+    :name: O2
+  - :mcc: 262
+    :mnc: 12
+    :name: Dolphin Telecom / sipgate
+  - :mcc: 262
+    :mnc: 13
+    :name: ''
+  - :mcc: 262
+    :mnc: 14
+    :name: ''
+  - :mcc: 262
+    :mnc: 15
+    :name: Airdata
+  - :mcc: 262
+    :mnc: 16
+    :name: Telogic ex. Vistream
+  - :mcc: 262
+    :mnc: 17
+    :name: ''
+  - :mcc: 262
+    :mnc: 18
+    :name: ''
+  - :mcc: 262
+    :mnc: 19
+    :name: ''
+  - :mcc: 262
+    :mnc: 20
+    :name: OnePhone
+  - :mcc: 262
+    :mnc: 41
+    :name: ''
+  - :mcc: 262
+    :mnc: 42
+    :name: CCC Event
+  - :mcc: 262
+    :mnc: 43
+    :name: LYCA
+  - :mcc: 262
+    :mnc: 60
+    :name: ''
+  - :mcc: 262
+    :mnc: 76
+    :name: ''
+  - :mcc: 262
+    :mnc: 77
+    :name: E-Plus
+  - :mcc: 262
+    :mnc: 78
+    :name: T-Mobile
+  - :mcc: 262
+    :mnc: 79
+    :name: ''
+  - :mcc: 262
+    :mnc: 92
+    :name: ''
+  - :mcc: 262
+    :mnc: 901
+    :name: Debitel
+Ghana:
+  :iso: GH
+  :cc: 233
+  :mccs:
+  - 620
+  :operators:
+  - :mcc: 620
+    :mnc: 1
+    :name: MTN
+  - :mcc: 620
+    :mnc: 2
+    :name: Vodafone
+  - :mcc: 620
+    :mnc: 3
+    :name: tiGO
+  - :mcc: 620
+    :mnc: 4
+    :name: Expresso
+  - :mcc: 620
+    :mnc: 6
+    :name: Airtel
+  - :mcc: 620
+    :mnc: 7
+    :name: Globacom
+  - :mcc: 620
+    :mnc: 11
+    :name: ''
+Gibraltar (United Kingdom):
+  :iso: GI
+  :cc: 350
+  :mccs:
+  - 266
+  :operators:
+  - :mcc: 266
+    :mnc: 1
+    :name: GibTel
+  - :mcc: 266
+    :mnc: 6
+    :name: CTS Mobile
+  - :mcc: 266
+    :mnc: 9
+    :name: Shine
+Greece:
+  :iso: GR
+  :cc: 30
+  :mccs:
+  - 202
+  :operators:
+  - :mcc: 202
+    :mnc: 1
+    :name: Cosmote
+  - :mcc: 202
+    :mnc: 2
+    :name: Cosmote
+  - :mcc: 202
+    :mnc: 3
+    :name: ''
+  - :mcc: 202
+    :mnc: 4
+    :name: ''
+  - :mcc: 202
+    :mnc: 5
+    :name: Vodafone
+  - :mcc: 202
+    :mnc: 6
+    :name: ''
+  - :mcc: 202
+    :mnc: 7
+    :name: ''
+  - :mcc: 202
+    :mnc: 9
+    :name: Wind
+  - :mcc: 202
+    :mnc: 10
+    :name: Wind
+Greenland (Kingdom of Denmark):
+  :iso: GL
+  :cc: 299
+  :mccs:
+  - 290
+  :operators:
+  - :mcc: 290
+    :mnc: 1
+    :name: ''
+Grenada:
+  :iso: GD
+  :cc: 0
+  :mccs:
+  - 352
+  :operators:
+  - :mcc: 352
+    :mnc: 30
+    :name: Digicel
+  - :mcc: 352
+    :mnc: 110
+    :name: Cable & Wireless
+Guadeloupe (France):
+  :iso: GP
+  :cc: 0
+  :mccs:
+  - 340
+  :operators:
+  - :mcc: 340
+    :mnc: 1
+    :name: Orange
+  - :mcc: 340
+    :mnc: 2
+    :name: Outremer
+  - :mcc: 340
+    :mnc: 3
+    :name: Telcell
+  - :mcc: 340
+    :mnc: 8
+    :name: Dauphin
+  - :mcc: 340
+    :mnc: 20
+    :name: Digicel
+Guam (United States of America):
+  :iso: GU
+  :cc: 0
+  :mccs:
+  - 310
+  - 311
+  :operators:
+  - :mcc: 310
+    :mnc: 32
+    :name: IT&E Wireless
+  - :mcc: 310
+    :mnc: 33
+    :name: ''
+  - :mcc: 310
+    :mnc: 140
+    :name: mPulse
+  - :mcc: 311
+    :mnc: 250
+    :name: i CAN_GSM
+  - :mcc: 310
+    :mnc: 370
+    :name: Docomo
+  - :mcc: 310
+    :mnc: 470
+    :name: Docomo
+Guatemala:
+  :iso: GT
+  :cc: 502
+  :mccs:
+  - 704
+  :operators:
+  - :mcc: 704
+    :mnc: 1
+    :name: Claro
+  - :mcc: 704
+    :mnc: 2
+    :name: Tigo
+  - :mcc: 704
+    :mnc: 3
+    :name: movistar
+  - :mcc: 704
+    :mnc: 0
+    :name: digicel
+  - :mcc: 704
+    :mnc: 0
+    :name: RED/INTELFON
+Guernsey (United Kingdom):
+  :iso: GG
+  :cc: 0
+  :mccs:
+  - 234
+  :operators:
+  - :mcc: 234
+    :mnc: 3
+    :name: Airtel Vodafone
+  - :mcc: 234
+    :mnc: 50
+    :name: Wave Telecom
+  - :mcc: 234
+    :mnc: 55
+    :name: Sure Mobile
+Guinea:
+  :iso: GN
+  :cc: 224
+  :mccs:
+  - 611
+  :operators:
+  - :mcc: 611
+    :mnc: 1
+    :name: Orange S.A.
+  - :mcc: 611
+    :mnc: 2
+    :name: Sotelgui
+  - :mcc: 611
+    :mnc: 3
+    :name: Telecel Guinee
+  - :mcc: 611
+    :mnc: 4
+    :name: MTN
+  - :mcc: 611
+    :mnc: 5
+    :name: Cellcom
+Guinea-Bissau:
+  :iso: GW
+  :cc: 245
+  :mccs:
+  - 632
+  :operators:
+  - :mcc: 632
+    :mnc: 1
+    :name: Guinetel
+  - :mcc: 632
+    :mnc: 2
+    :name: MTN Areeba
+  - :mcc: 632
+    :mnc: 3
+    :name: Orange
+  - :mcc: 632
+    :mnc: 7
+    :name: Guinetel
+Guyana:
+  :iso: GY
+  :cc: 592
+  :mccs:
+  - 738
+  :operators:
+  - :mcc: 738
+    :mnc: 1
+    :name: Digicel
+  - :mcc: 738
+    :mnc: 2
+    :name: GT&T Cellink Plus
+Haiti:
+  :iso: HT
+  :cc: 509
+  :mccs:
+  - 372
+  :operators:
+  - :mcc: 372
+    :mnc: 1
+    :name: Voila
+  - :mcc: 372
+    :mnc: 2
+    :name: Digicel
+  - :mcc: 372
+    :mnc: 3
+    :name: Natcom
+Honduras:
+  :iso: HN
+  :cc: 504
+  :mccs:
+  - 708
+  :operators:
+  - :mcc: 708
+    :mnc: 1
+    :name: Claro
+  - :mcc: 708
+    :mnc: 2
+    :name: Tigo
+  - :mcc: 708
+    :mnc: 30
+    :name: Hondutel
+  - :mcc: 708
+    :mnc: 40
+    :name: Digicel
+Hong Kong:
+  :iso: HK
+  :cc: 852
+  :mccs:
+  - 454
+  :operators:
+  - :mcc: 454
+    :mnc: 0
+    :name: 1O1O / One2Free / New World Mobility
+  - :mcc: 454
+    :mnc: 1
+    :name: ''
+  - :mcc: 454
+    :mnc: 2
+    :name: ''
+  - :mcc: 454
+    :mnc: 3
+    :name: '3'
+  - :mcc: 454
+    :mnc: 4
+    :name: 3 (2G)
+  - :mcc: 454
+    :mnc: 5
+    :name: 3 (CDMA)
+  - :mcc: 454
+    :mnc: 6
+    :name: SmarTone
+  - :mcc: 454
+    :mnc: 7
+    :name: ''
+  - :mcc: 454
+    :mnc: 8
+    :name: Truphone
+  - :mcc: 454
+    :mnc: 9
+    :name: ''
+  - :mcc: 454
+    :mnc: 10
+    :name: New World Mobility
+  - :mcc: 454
+    :mnc: 11
+    :name: ''
+  - :mcc: 454
+    :mnc: 12
+    :name: CMCC HK
+  - :mcc: 454
+    :mnc: 13
+    :name: CMCC HK
+  - :mcc: 454
+    :mnc: 14
+    :name: ''
+  - :mcc: 454
+    :mnc: 15
+    :name: ''
+  - :mcc: 454
+    :mnc: 16
+    :name: PCCW Mobile (2G)
+  - :mcc: 454
+    :mnc: 17
+    :name: ''
+  - :mcc: 454
+    :mnc: 18
+    :name: ''
+  - :mcc: 454
+    :mnc: 19
+    :name: PCCW Mobile (3G/4G)
+  - :mcc: 454
+    :mnc: 22
+    :name: P Plus
+  - :mcc: 454
+    :mnc: 29
+    :name: PCCW Mobile (CDMA)
+Hungary:
+  :iso: HU
+  :cc: 36
+  :mccs:
+  - 216
+  :operators:
+  - :mcc: 216
+    :mnc: 1
+    :name: Telenor
+  - :mcc: 216
+    :mnc: 20
+    :name: Telenor
+  - :mcc: 216
+    :mnc: 30
+    :name: T-Mobile
+  - :mcc: 216
+    :mnc: 70
+    :name: Vodafone
+  - :mcc: 216
+    :mnc: 71
+    :name: UPC Hungary
+  - :mcc: 216
+    :mnc: 99
+    :name: MAV GSM-R
+Iceland:
+  :iso: IS
+  :cc: 0
+  :mccs:
+  - 274
+  :operators:
+  - :mcc: 274
+    :mnc: 1
+    :name: Síminn
+  - :mcc: 274
+    :mnc: 2
+    :name: Vodafone
+  - :mcc: 274
+    :mnc: 3
+    :name: Vodafone
+  - :mcc: 274
+    :mnc: 4
+    :name: Viking
+  - :mcc: 274
+    :mnc: 6
+    :name: ''
+  - :mcc: 274
+    :mnc: 7
+    :name: IceCell
+  - :mcc: 274
+    :mnc: 8
+    :name: On-waves
+  - :mcc: 274
+    :mnc: 11
+    :name: Nova
+  - :mcc: 274
+    :mnc: 12
+    :name: Tal
+India:
+  :iso: IN
+  :cc: 91
+  :mccs:
+  - 404
+  - 405
+  :operators:
+  - :mcc: 404
+    :mnc: 1
+    :name: Vodafone IN
+  - :mcc: 404
+    :mnc: 2
+    :name: AirTel
+  - :mcc: 404
+    :mnc: 3
+    :name: AirTel
+  - :mcc: 404
+    :mnc: 4
+    :name: IDEA
+  - :mcc: 404
+    :mnc: 5
+    :name: Vodafone IN
+  - :mcc: 404
+    :mnc: 7
+    :name: IDEA
+  - :mcc: 404
+    :mnc: 9
+    :name: Reliance
+  - :mcc: 404
+    :mnc: 10
+    :name: AirTel
+  - :mcc: 404
+    :mnc: 11
+    :name: Vodafone IN
+  - :mcc: 404
+    :mnc: 12
+    :name: IDEA
+  - :mcc: 404
+    :mnc: 13
+    :name: Vodafone IN
+  - :mcc: 404
+    :mnc: 14
+    :name: IDEA
+  - :mcc: 404
+    :mnc: 15
+    :name: Vodafone IN
+  - :mcc: 404
+    :mnc: 16
+    :name: Airtel
+  - :mcc: 404
+    :mnc: 17
+    :name: AIRCEL
+  - :mcc: 404
+    :mnc: 18
+    :name: Reliance
+  - :mcc: 404
+    :mnc: 19
+    :name: IDEA
+  - :mcc: 404
+    :mnc: 20
+    :name: Vodafone IN
+  - :mcc: 404
+    :mnc: 21
+    :name: Loop Mobile
+  - :mcc: 404
+    :mnc: 22
+    :name: IDEA
+  - :mcc: 404
+    :mnc: 24
+    :name: IDEA
+  - :mcc: 404
+    :mnc: 25
+    :name: AIRCEL
+  - :mcc: 404
+    :mnc: 27
+    :name: Vodafone IN
+  - :mcc: 404
+    :mnc: 28
+    :name: AIRCEL
+  - :mcc: 404
+    :mnc: 29
+    :name: AIRCEL
+  - :mcc: 404
+    :mnc: 30
+    :name: Vodafone IN
+  - :mcc: 404
+    :mnc: 31
+    :name: AirTel
+  - :mcc: 404
+    :mnc: 34
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 36
+    :name: Reliance
+  - :mcc: 404
+    :mnc: 37
+    :name: Aircel
+  - :mcc: 404
+    :mnc: 38
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 40
+    :name: AirTel
+  - :mcc: 404
+    :mnc: 41
+    :name: Aircel
+  - :mcc: 404
+    :mnc: 42
+    :name: Aircel
+  - :mcc: 404
+    :mnc: 43
+    :name: Vodafone IN
+  - :mcc: 404
+    :mnc: 44
+    :name: IDEA
+  - :mcc: 404
+    :mnc: 45
+    :name: Airtel
+  - :mcc: 404
+    :mnc: 46
+    :name: Vodafone IN
+  - :mcc: 404
+    :mnc: 48
+    :name: Dishnet Wireless
+  - :mcc: 404
+    :mnc: 49
+    :name: Airtel
+  - :mcc: 404
+    :mnc: 50
+    :name: Reliance
+  - :mcc: 404
+    :mnc: 51
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 52
+    :name: Reliance
+  - :mcc: 404
+    :mnc: 53
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 54
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 55
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 56
+    :name: IDEA
+  - :mcc: 404
+    :mnc: 57
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 58
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 59
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 60
+    :name: Vodafone IN
+  - :mcc: 404
+    :mnc: 62
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 64
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 66
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 67
+    :name: Reliance
+  - :mcc: 404
+    :mnc: 68
+    :name: DOLPHIN
+  - :mcc: 404
+    :mnc: 69
+    :name: DOLPHIN
+  - :mcc: 404
+    :mnc: 70
+    :name: AirTel
+  - :mcc: 404
+    :mnc: 71
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 72
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 73
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 74
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 75
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 76
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 77
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 78
+    :name: Idea Cellular Ltd
+  - :mcc: 404
+    :mnc: 79
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 80
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 81
+    :name: CellOne
+  - :mcc: 404
+    :mnc: 82
+    :name: Idea
+  - :mcc: 404
+    :mnc: 83
+    :name: Reliance
+  - :mcc: 404
+    :mnc: 84
+    :name: Vodafone IN
+  - :mcc: 404
+    :mnc: 85
+    :name: Reliance
+  - :mcc: 404
+    :mnc: 86
+    :name: Vodafone IN
+  - :mcc: 404
+    :mnc: 87
+    :name: IDEA
+  - :mcc: 404
+    :mnc: 88
+    :name: Vodafone IN
+  - :mcc: 404
+    :mnc: 89
+    :name: Idea
+  - :mcc: 404
+    :mnc: 90
+    :name: AirTel
+  - :mcc: 404
+    :mnc: 91
+    :name: AIRCEL
+  - :mcc: 404
+    :mnc: 92
+    :name: AirTel
+  - :mcc: 404
+    :mnc: 93
+    :name: AirTel
+  - :mcc: 404
+    :mnc: 94
+    :name: AirTel
+  - :mcc: 404
+    :mnc: 95
+    :name: AirTel
+  - :mcc: 404
+    :mnc: 96
+    :name: AirTel
+  - :mcc: 404
+    :mnc: 97
+    :name: AirTel
+  - :mcc: 404
+    :mnc: 98
+    :name: AirTel
+  - :mcc: 405
+    :mnc: 1
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 25
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 26
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 27
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 28
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 29
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 3
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 30
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 31
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 32
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 33
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 34
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 35
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 36
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 37
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 38
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 39
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 4
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 41
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 42
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 43
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 44
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 45
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 46
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 47
+    :name: TATA DOCOMO
+  - :mcc: 405
+    :mnc: 5
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 6
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 7
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 8
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 9
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 10
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 11
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 12
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 13
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 14
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 15
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 17
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 18
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 19
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 20
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 21
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 22
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 23
+    :name: Reliance
+  - :mcc: 405
+    :mnc: 51
+    :name: AirTel
+  - :mcc: 405
+    :mnc: 52
+    :name: AirTel
+  - :mcc: 405
+    :mnc: 53
+    :name: AirTel
+  - :mcc: 405
+    :mnc: 54
+    :name: AirTel
+  - :mcc: 405
+    :mnc: 55
+    :name: Airtel
+  - :mcc: 405
+    :mnc: 56
+    :name: AirTel
+  - :mcc: 405
+    :mnc: 66
+    :name: Vodafone IN
+  - :mcc: 405
+    :mnc: 67
+    :name: Vodafone IN
+  - :mcc: 405
+    :mnc: 70
+    :name: IDEA
+  - :mcc: 405
+    :mnc: 750
+    :name: Vodafone IN
+  - :mcc: 405
+    :mnc: 751
+    :name: Vodafone IN
+  - :mcc: 405
+    :mnc: 752
+    :name: Vodafone IN
+  - :mcc: 405
+    :mnc: 753
+    :name: Vodafone IN
+  - :mcc: 405
+    :mnc: 754
+    :name: Vodafone IN
+  - :mcc: 405
+    :mnc: 755
+    :name: Vodafone IN
+  - :mcc: 405
+    :mnc: 756
+    :name: Vodafone IN
+  - :mcc: 405
+    :mnc: 799
+    :name: IDEA
+  - :mcc: 405
+    :mnc: 800
+    :name: AIRCEL
+  - :mcc: 405
+    :mnc: 801
+    :name: AIRCEL
+  - :mcc: 405
+    :mnc: 802
+    :name: AIRCEL
+  - :mcc: 405
+    :mnc: 803
+    :name: AIRCEL
+  - :mcc: 405
+    :mnc: 804
+    :name: AIRCEL
+  - :mcc: 405
+    :mnc: 805
+    :name: AIRCEL
+  - :mcc: 405
+    :mnc: 806
+    :name: AIRCEL
+  - :mcc: 405
+    :mnc: 807
+    :name: AIRCEL
+  - :mcc: 405
+    :mnc: 808
+    :name: AIRCEL
+  - :mcc: 405
+    :mnc: 809
+    :name: AIRCEL
+  - :mcc: 405
+    :mnc: 810
+    :name: AIRCEL
+  - :mcc: 405
+    :mnc: 811
+    :name: AIRCEL
+  - :mcc: 405
+    :mnc: 812
+    :name: AIRCEL
+  - :mcc: 405
+    :mnc: 819
+    :name: Uninor
+  - :mcc: 405
+    :mnc: 818
+    :name: Uninor
+  - :mcc: 405
+    :mnc: 820
+    :name: Uninor
+  - :mcc: 405
+    :mnc: 821
+    :name: Uninor
+  - :mcc: 405
+    :mnc: 822
+    :name: Uninor
+  - :mcc: 405
+    :mnc: 824
+    :name: Videocon Datacom
+  - :mcc: 405
+    :mnc: 827
+    :name: Videocon Datacom
+  - :mcc: 405
+    :mnc: 834
+    :name: Videocon Datacom
+  - :mcc: 405
+    :mnc: 844
+    :name: Uninor
+  - :mcc: 405
+    :mnc: 840
+    :name: Jio
+  - :mcc: 405
+    :mnc: 845
+    :name: IDEA
+  - :mcc: 405
+    :mnc: 846
+    :name: IDEA
+  - :mcc: 405
+    :mnc: 847
+    :name: IDEA
+  - :mcc: 405
+    :mnc: 848
+    :name: IDEA
+  - :mcc: 405
+    :mnc: 849
+    :name: IDEA
+  - :mcc: 405
+    :mnc: 850
+    :name: IDEA
+  - :mcc: 405
+    :mnc: 851
+    :name: IDEA
+  - :mcc: 405
+    :mnc: 852
+    :name: IDEA
+  - :mcc: 405
+    :mnc: 853
+    :name: IDEA
+  - :mcc: 405
+    :mnc: 854
+    :name: Jio
+  - :mcc: 405
+    :mnc: 855
+    :name: Jio
+  - :mcc: 405
+    :mnc: 856
+    :name: Jio
+  - :mcc: 405
+    :mnc: 857
+    :name: Jio
+  - :mcc: 405
+    :mnc: 858
+    :name: Jio
+  - :mcc: 405
+    :mnc: 859
+    :name: Jio
+  - :mcc: 405
+    :mnc: 860
+    :name: Jio
+  - :mcc: 405
+    :mnc: 861
+    :name: Jio
+  - :mcc: 405
+    :mnc: 862
+    :name: Jio
+  - :mcc: 405
+    :mnc: 863
+    :name: Jio
+  - :mcc: 405
+    :mnc: 864
+    :name: Jio
+  - :mcc: 405
+    :mnc: 865
+    :name: Jio
+  - :mcc: 405
+    :mnc: 866
+    :name: Jio
+  - :mcc: 405
+    :mnc: 867
+    :name: Jio
+  - :mcc: 405
+    :mnc: 868
+    :name: Jio
+  - :mcc: 405
+    :mnc: 869
+    :name: Jio
+  - :mcc: 405
+    :mnc: 870
+    :name: Jio
+  - :mcc: 405
+    :mnc: 871
+    :name: Jio
+  - :mcc: 405
+    :mnc: 872
+    :name: Jio
+  - :mcc: 405
+    :mnc: 873
+    :name: Jio
+  - :mcc: 405
+    :mnc: 874
+    :name: Jio
+  - :mcc: 405
+    :mnc: 875
+    :name: Uninor
+  - :mcc: 405
+    :mnc: 880
+    :name: Uninor
+  - :mcc: 405
+    :mnc: 881
+    :name: S Tel
+  - :mcc: 405
+    :mnc: 908
+    :name: IDEA
+  - :mcc: 405
+    :mnc: 909
+    :name: IDEA
+  - :mcc: 405
+    :mnc: 910
+    :name: IDEA
+  - :mcc: 405
+    :mnc: 911
+    :name: IDEA
+  - :mcc: 405
+    :mnc: 912
+    :name: Etisalat DB(cheers)
+  - :mcc: 405
+    :mnc: 913
+    :name: Etisalat DB(cheers)
+  - :mcc: 405
+    :mnc: 914
+    :name: Etisalat DB(cheers)
+  - :mcc: 405
+    :mnc: 917
+    :name: Etisalat DB(cheers)
+  - :mcc: 405
+    :mnc: 927
+    :name: Uninor
+  - :mcc: 405
+    :mnc: 929
+    :name: Uninor
+Indonesia:
+  :iso: ID
+  :cc: 62
+  :mccs:
+  - 510
+  :operators:
+  - :mcc: 510
+    :mnc: 0
+    :name: PSN
+  - :mcc: 510
+    :mnc: 1
+    :name: INDOSAT
+  - :mcc: 510
+    :mnc: 3
+    :name: StarOne
+  - :mcc: 510
+    :mnc: 7
+    :name: TelkomFlexi
+  - :mcc: 510
+    :mnc: 8
+    :name: AXIS
+  - :mcc: 510
+    :mnc: 9
+    :name: SMARTFREN
+  - :mcc: 510
+    :mnc: 10
+    :name: Telkomsel
+  - :mcc: 510
+    :mnc: 11
+    :name: XL
+  - :mcc: 510
+    :mnc: 20
+    :name: TELKOMMobile
+  - :mcc: 510
+    :mnc: 21
+    :name: IM3
+  - :mcc: 510
+    :mnc: 27
+    :name: Ceria
+  - :mcc: 510
+    :mnc: 28
+    :name: Fren/Hepi
+  - :mcc: 510
+    :mnc: 89
+    :name: '3'
+  - :mcc: 510
+    :mnc: 99
+    :name: Esia
+  - :mcc: 510
+    :mnc: 995
+    :name: Komselindo
+  - :mcc: 510
+    :mnc: 996
+    :name: Komselindo
+Iran:
+  :iso: IR
+  :cc: 98
+  :mccs:
+  - 432
+  :operators:
+  - :mcc: 432
+    :mnc: 11
+    :name: IR-MCI
+  - :mcc: 432
+    :mnc: 14
+    :name: TKC
+  - :mcc: 432
+    :mnc: 19
+    :name: MTCE
+  - :mcc: 432
+    :mnc: 20
+    :name: Rightel
+  - :mcc: 432
+    :mnc: 32
+    :name: Taliya
+  - :mcc: 432
+    :mnc: 35
+    :name: Irancell
+  - :mcc: 432
+    :mnc: 70
+    :name: TCI
+  - :mcc: 432
+    :mnc: 93
+    :name: Iraphone
+Iraq:
+  :iso: IQ
+  :cc: 964
+  :mccs:
+  - 418
+  :operators:
+  - :mcc: 418
+    :mnc: 5
+    :name: Asia Cell
+  - :mcc: 418
+    :mnc: 8
+    :name: SanaTel
+  - :mcc: 418
+    :mnc: 20
+    :name: Zain
+  - :mcc: 418
+    :mnc: 30
+    :name: Zain
+  - :mcc: 418
+    :mnc: 40
+    :name: Korek
+  - :mcc: 418
+    :mnc: 45
+    :name: Mobitel
+  - :mcc: 418
+    :mnc: 62
+    :name: Itisaluna
+  - :mcc: 418
+    :mnc: 92
+    :name: Omnnea
+Ireland:
+  :iso: IE
+  :cc: 353
+  :mccs:
+  - 272
+  :operators:
+  - :mcc: 272
+    :mnc: 1
+    :name: Vodafone
+  - :mcc: 272
+    :mnc: 2
+    :name: O2
+  - :mcc: 272
+    :mnc: 3
+    :name: Meteor
+  - :mcc: 272
+    :mnc: 4
+    :name: ''
+  - :mcc: 272
+    :mnc: 5
+    :name: '3'
+  - :mcc: 272
+    :mnc: 7
+    :name: eMobile
+  - :mcc: 272
+    :mnc: 9
+    :name: ''
+  - :mcc: 272
+    :mnc: 11
+    :name: Tesco Mobile
+  - :mcc: 272
+    :mnc: 13
+    :name: Lycamobile
+Isle of Man (United Kingdom):
+  :iso: IM
+  :cc: 44
+  :mccs:
+  - 234
+  :operators:
+  - :mcc: 234
+    :mnc: 9
+    :name: Sure Mobile
+  - :mcc: 234
+    :mnc: 58
+    :name: Pronto GSM
+  - :mcc: 234
+    :mnc: 0
+    :name: Cloud 9 Mobile
+Israel:
+  :iso: IL
+  :cc: 972
+  :mccs:
+  - 425
+  :operators:
+  - :mcc: 425
+    :mnc: 1
+    :name: Orange
+  - :mcc: 425
+    :mnc: 2
+    :name: Cellcom
+  - :mcc: 425
+    :mnc: 3
+    :name: Pelephone
+  - :mcc: 425
+    :mnc: 7
+    :name: Hot Mobile
+  - :mcc: 425
+    :mnc: 8
+    :name: Golan Telecom
+  - :mcc: 425
+    :mnc: 11
+    :name: ''
+  - :mcc: 425
+    :mnc: 12
+    :name: ''
+  - :mcc: 425
+    :mnc: 13
+    :name: ''
+  - :mcc: 425
+    :mnc: 14
+    :name: Youphone
+  - :mcc: 425
+    :mnc: 15
+    :name: Home Cellular
+  - :mcc: 425
+    :mnc: 16
+    :name: Rami Levy
+  - :mcc: 425
+    :mnc: 17
+    :name: ''
+  - :mcc: 425
+    :mnc: 18
+    :name: Cellact Communications
+  - :mcc: 425
+    :mnc: 19
+    :name: ''
+  - :mcc: 425
+    :mnc: 20
+    :name: ''
+  - :mcc: 425
+    :mnc: 21
+    :name: ''
+Italy:
+  :iso: IT
+  :cc: 39
+  :mccs:
+  - 222
+  :operators:
+  - :mcc: 222
+    :mnc: 1
+    :name: TIM
+  - :mcc: 222
+    :mnc: 2
+    :name: Elsacom
+  - :mcc: 222
+    :mnc: 4
+    :name: Intermatica
+  - :mcc: 222
+    :mnc: 5
+    :name: Telespazio
+  - :mcc: 222
+    :mnc: 7
+    :name: Noverca
+  - :mcc: 222
+    :mnc: 10
+    :name: Vodafone
+  - :mcc: 222
+    :mnc: 30
+    :name: RFI
+  - :mcc: 222
+    :mnc: 34
+    :name: BT Italia
+  - :mcc: 222
+    :mnc: 35
+    :name: Lyca Italy
+  - :mcc: 222
+    :mnc: 77
+    :name: IPSE 2000
+  - :mcc: 222
+    :mnc: 88
+    :name: Wind
+  - :mcc: 222
+    :mnc: 98
+    :name: Blu
+  - :mcc: 222
+    :mnc: 99
+    :name: 3 Italia
+Ivory Coast:
+  :iso: CI
+  :cc: 225
+  :mccs:
+  - 612
+  :operators:
+  - :mcc: 612
+    :mnc: 1
+    :name: ''
+  - :mcc: 612
+    :mnc: 2
+    :name: Moov
+  - :mcc: 612
+    :mnc: 3
+    :name: Orange
+  - :mcc: 612
+    :mnc: 4
+    :name: KoZ
+  - :mcc: 612
+    :mnc: 5
+    :name: MTN
+  - :mcc: 612
+    :mnc: 6
+    :name: ORICEL
+Jamaica:
+  :iso: JM
+  :cc: 0
+  :mccs:
+  - 338
+  :operators:
+  - :mcc: 338
+    :mnc: 20
+    :name: LIME
+  - :mcc: 338
+    :mnc: 50
+    :name: Digicel
+  - :mcc: 338
+    :mnc: 110
+    :name: LIME
+  - :mcc: 338
+    :mnc: 180
+    :name: LIME
+Japan:
+  :iso: JP
+  :cc: 81
+  :mccs:
+  - 440
+  :operators:
+  - :mcc: 440
+    :mnc: 0
+    :name: eMobile
+  - :mcc: 440
+    :mnc: 1
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 2
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 3
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 4
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 6
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 7
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 8
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 9
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 10
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 11
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 12
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 13
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 14
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 15
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 16
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 17
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 18
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 19
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 20
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 21
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 22
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 23
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 24
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 25
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 26
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 27
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 28
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 29
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 30
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 31
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 32
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 33
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 34
+    :name: NTT docomo
+  - :mcc: 440
+    :mnc: 35
+    :name: NTT DoCoMo
+  - :mcc: 440
+    :mnc: 36
+    :name: NTT DoCoMo
+  - :mcc: 440
+    :mnc: 37
+    :name: NTT DoCoMo
+  - :mcc: 440
+    :mnc: 38
+    :name: NTT DoCoMo
+  - :mcc: 440
+    :mnc: 39
+    :name: NTT DoCoMo
+  - :mcc: 440
+    :mnc: 40
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 41
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 42
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 43
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 44
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 45
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 46
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 47
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 48
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 49
+    :name: NTT DoCoMo
+  - :mcc: 440
+    :mnc: 50
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 51
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 52
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 53
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 54
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 55
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 56
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 58
+    :name: NTT DoCoMo
+  - :mcc: 440
+    :mnc: 60
+    :name: NTT DoCoMo
+  - :mcc: 440
+    :mnc: 61
+    :name: NTT DoCoMo
+  - :mcc: 440
+    :mnc: 62
+    :name: NTT DoCoMo
+  - :mcc: 440
+    :mnc: 63
+    :name: NTT DoCoMo
+  - :mcc: 440
+    :mnc: 64
+    :name: NTT DoCoMo
+  - :mcc: 440
+    :mnc: 65
+    :name: NTT DoCoMo
+  - :mcc: 440
+    :mnc: 66
+    :name: NTT DoCoMo
+  - :mcc: 440
+    :mnc: 67
+    :name: NTT DoCoMo
+  - :mcc: 440
+    :mnc: 68
+    :name: NTT DoCoMo
+  - :mcc: 440
+    :mnc: 69
+    :name: NTT DoCoMo
+  - :mcc: 440
+    :mnc: 70
+    :name: au
+  - :mcc: 440
+    :mnc: 71
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 72
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 73
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 74
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 75
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 76
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 77
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 78
+    :name: ''
+  - :mcc: 440
+    :mnc: 79
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 80
+    :name: TU-KA
+  - :mcc: 440
+    :mnc: 81
+    :name: TU-KA
+  - :mcc: 440
+    :mnc: 82
+    :name: TU-KA
+  - :mcc: 440
+    :mnc: 83
+    :name: TU-KA
+  - :mcc: 440
+    :mnc: 84
+    :name: TU-KA
+  - :mcc: 440
+    :mnc: 85
+    :name: TU-KA
+  - :mcc: 440
+    :mnc: 86
+    :name: TU-KA
+  - :mcc: 440
+    :mnc: 87
+    :name: NTT DoCoMo
+  - :mcc: 440
+    :mnc: 88
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 89
+    :name: KDDI
+  - :mcc: 440
+    :mnc: 90
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 92
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 93
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 94
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 95
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 96
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 97
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 98
+    :name: SoftBank
+  - :mcc: 440
+    :mnc: 99
+    :name: NTT DoCoMo
+Jersey (United Kingdom):
+  :iso: JE
+  :cc: 0
+  :mccs:
+  - 234
+  :operators:
+  - :mcc: 234
+    :mnc: 3
+    :name: Airtel Vodafone
+  - :mcc: 234
+    :mnc: 50
+    :name: JT
+  - :mcc: 234
+    :mnc: 55
+    :name: Sure Mobile
+Jordan:
+  :iso: JO
+  :cc: 962
+  :mccs:
+  - 416
+  :operators:
+  - :mcc: 416
+    :mnc: 1
+    :name: zain JO
+  - :mcc: 416
+    :mnc: 2
+    :name: XPress Telecom
+  - :mcc: 416
+    :mnc: 3
+    :name: Umniah
+  - :mcc: 416
+    :mnc: 77
+    :name: Orange
+Kazakhstan:
+  :iso: KZ
+  :cc: 7
+  :mccs:
+  - 401
+  :operators:
+  - :mcc: 401
+    :mnc: 1
+    :name: Beeline
+  - :mcc: 401
+    :mnc: 2
+    :name: Kcell
+  - :mcc: 401
+    :mnc: 7
+    :name: Dalacom
+  - :mcc: 401
+    :mnc: 8
+    :name: Kazakhtelecom
+  - :mcc: 401
+    :mnc: 77
+    :name: Tele2.kz
+Kenya:
+  :iso: KE
+  :cc: 254
+  :mccs:
+  - 639
+  :operators:
+  - :mcc: 639
+    :mnc: 2
+    :name: Safaricom
+  - :mcc: 639
+    :mnc: 3
+    :name: Airtel
+  - :mcc: 639
+    :mnc: 5
+    :name: yu
+  - :mcc: 639
+    :mnc: 7
+    :name: Orange Kenya
+Kiribati:
+  :iso: KI
+  :cc: 686
+  :mccs:
+  - 545
+  :operators:
+  - :mcc: 545
+    :mnc: 1
+    :name: Kiribati - TSKL
+  - :mcc: 545
+    :mnc: 9
+    :name: Kiribati - Frigate Net
+North Korea:
+  :iso: KP
+  :cc: 850
+  :mccs:
+  - 467
+  :operators:
+  - :mcc: 467
+    :mnc: 5
+    :name: Koryolink
+  - :mcc: 467
+    :mnc: 193
+    :name: SunNet
+South Korea:
+  :iso: KR
+  :cc: 82
+  :mccs:
+  - 450
+  :operators:
+  - :mcc: 450
+    :mnc: 2
+    :name: KT
+  - :mcc: 450
+    :mnc: 3
+    :name: Power 017
+  - :mcc: 450
+    :mnc: 4
+    :name: KT
+  - :mcc: 450
+    :mnc: 5
+    :name: SKTelecom
+  - :mcc: 450
+    :mnc: 6
+    :name: LG U+
+  - :mcc: 450
+    :mnc: 8
+    :name: olleh
+  - :mcc: 450
+    :mnc: 11
+    :name: SKTelecom
+Kosovo:
+  :iso: XK
+  :cc: 0
+  :mccs:
+  - 212
+  - 293
+  :operators:
+  - :mcc: 212
+    :mnc: 1
+    :name: Vala
+  - :mcc: 212
+    :mnc: 1
+    :name: Z Mobile
+  - :mcc: 293
+    :mnc: 41
+    :name: IPKO
+  - :mcc: 293
+    :mnc: 41
+    :name: D3 Mobile
+Kuwait:
+  :iso: KW
+  :cc: 965
+  :mccs:
+  - 419
+  :operators:
+  - :mcc: 419
+    :mnc: 2
+    :name: zain KW
+  - :mcc: 419
+    :mnc: 3
+    :name: Wataniya
+  - :mcc: 419
+    :mnc: 4
+    :name: Viva
+Kyrgyzstan:
+  :iso: KG
+  :cc: 996
+  :mccs:
+  - 437
+  :operators:
+  - :mcc: 437
+    :mnc: 1
+    :name: Beeline
+  - :mcc: 437
+    :mnc: 3
+    :name: Fonex
+  - :mcc: 437
+    :mnc: 5
+    :name: MegaCom
+  - :mcc: 437
+    :mnc: 9
+    :name: O!
+Laos:
+  :iso: LA
+  :cc: 856
+  :mccs:
+  - 457
+  :operators:
+  - :mcc: 457
+    :mnc: 1
+    :name: LTC
+  - :mcc: 457
+    :mnc: 2
+    :name: ETL
+  - :mcc: 457
+    :mnc: 3
+    :name: Unitel
+  - :mcc: 457
+    :mnc: 8
+    :name: Beeline
+Latvia:
+  :iso: LV
+  :cc: 371
+  :mccs:
+  - 247
+  :operators:
+  - :mcc: 247
+    :mnc: 1
+    :name: LMT
+  - :mcc: 247
+    :mnc: 2
+    :name: Tele2
+  - :mcc: 247
+    :mnc: 3
+    :name: TRIATEL
+  - :mcc: 247
+    :mnc: 4
+    :name: ''
+  - :mcc: 247
+    :mnc: 5
+    :name: Bite
+  - :mcc: 247
+    :mnc: 6
+    :name: ''
+  - :mcc: 247
+    :mnc: 7
+    :name: MTS
+  - :mcc: 247
+    :mnc: 8
+    :name: IZZI
+  - :mcc: 247
+    :mnc: 9
+    :name: Camel Mobile
+Lebanon:
+  :iso: LB
+  :cc: 961
+  :mccs:
+  - 415
+  :operators:
+  - :mcc: 415
+    :mnc: 1
+    :name: Alfa
+  - :mcc: 415
+    :mnc: 3
+    :name: mtc touch
+  - :mcc: 415
+    :mnc: 5
+    :name: Ogero Mobile
+Lesotho:
+  :iso: LS
+  :cc: 266
+  :mccs:
+  - 651
+  :operators:
+  - :mcc: 651
+    :mnc: 1
+    :name: Vodacom
+  - :mcc: 651
+    :mnc: 2
+    :name: ''
+Liberia:
+  :iso: LR
+  :cc: 231
+  :mccs:
+  - 618
+  :operators:
+  - :mcc: 618
+    :mnc: 1
+    :name: Lonestar Cell
+  - :mcc: 618
+    :mnc: 2
+    :name: Libercell
+  - :mcc: 618
+    :mnc: 4
+    :name: Comium
+  - :mcc: 618
+    :mnc: 7
+    :name: Cellcom
+  - :mcc: 618
+    :mnc: 20
+    :name: LIBTELCO
+Libya:
+  :iso: LY
+  :cc: 218
+  :mccs:
+  - 606
+  :operators:
+  - :mcc: 606
+    :mnc: 0
+    :name: Libyana
+  - :mcc: 606
+    :mnc: 1
+    :name: Madar
+  - :mcc: 606
+    :mnc: 2
+    :name: Al-Jeel Phone
+  - :mcc: 606
+    :mnc: 3
+    :name: Libya Phone
+  - :mcc: 606
+    :mnc: 6
+    :name: Hatef Libya
+Liechtenstein:
+  :iso: LI
+  :cc: 423
+  :mccs:
+  - 295
+  :operators:
+  - :mcc: 295
+    :mnc: 1
+    :name: Swisscom
+  - :mcc: 295
+    :mnc: 2
+    :name: Orange
+  - :mcc: 295
+    :mnc: 5
+    :name: FL1
+  - :mcc: 295
+    :mnc: 6
+    :name: Cubic Telecom
+  - :mcc: 295
+    :mnc: 77
+    :name: Alpmobil
+Lithuania:
+  :iso: LT
+  :cc: 370
+  :mccs:
+  - 246
+  :operators:
+  - :mcc: 246
+    :mnc: 1
+    :name: Omnitel
+  - :mcc: 246
+    :mnc: 2
+    :name: BITĖ
+  - :mcc: 246
+    :mnc: 3
+    :name: Tele 2
+  - :mcc: 246
+    :mnc: 5
+    :name: LitRail
+  - :mcc: 246
+    :mnc: 6
+    :name: Mediafon
+Luxembourg:
+  :iso: LU
+  :cc: 352
+  :mccs:
+  - 270
+  :operators:
+  - :mcc: 270
+    :mnc: 1
+    :name: POST
+  - :mcc: 270
+    :mnc: 2
+    :name: ''
+  - :mcc: 270
+    :mnc: 10
+    :name: ''
+  - :mcc: 270
+    :mnc: 77
+    :name: Tango
+  - :mcc: 270
+    :mnc: 78
+    :name: ''
+  - :mcc: 270
+    :mnc: 99
+    :name: Orange
+Macau (People's Republic of China):
+  :iso: MO
+  :cc: 853
+  :mccs:
+  - 455
+  :operators:
+  - :mcc: 455
+    :mnc: 0
+    :name: SmarTone
+  - :mcc: 455
+    :mnc: 1
+    :name: CTM
+  - :mcc: 455
+    :mnc: 2
+    :name: China Telecom
+  - :mcc: 455
+    :mnc: 3
+    :name: '3'
+  - :mcc: 455
+    :mnc: 4
+    :name: CTM
+  - :mcc: 455
+    :mnc: 5
+    :name: '3'
+  - :mcc: 455
+    :mnc: 6
+    :name: SmarTone
+Macedonia:
+  :iso: MK
+  :cc: 389
+  :mccs:
+  - 294
+  :operators:
+  - :mcc: 294
+    :mnc: 1
+    :name: T-Mobile MK
+  - :mcc: 294
+    :mnc: 2
+    :name: ONE
+  - :mcc: 294
+    :mnc: 3
+    :name: Vip MK
+Madagascar:
+  :iso: MG
+  :cc: 261
+  :mccs:
+  - 646
+  :operators:
+  - :mcc: 646
+    :mnc: 1
+    :name: Airtel
+  - :mcc: 646
+    :mnc: 2
+    :name: Orange
+  - :mcc: 646
+    :mnc: 3
+    :name: Sacel
+  - :mcc: 646
+    :mnc: 4
+    :name: Telma
+Malawi:
+  :iso: MW
+  :cc: 265
+  :mccs:
+  - 650
+  :operators:
+  - :mcc: 650
+    :mnc: 1
+    :name: TNM
+  - :mcc: 650
+    :mnc: 10
+    :name: Airtel
+Malaysia:
+  :iso: MY
+  :cc: 60
+  :mccs:
+  - 502
+  :operators:
+  - :mcc: 502
+    :mnc: 1
+    :name: ATUR 450
+  - :mcc: 502
+    :mnc: 10
+    :name: ''
+  - :mcc: 502
+    :mnc: 11
+    :name: TM Homeline
+  - :mcc: 502
+    :mnc: 12
+    :name: Maxis
+  - :mcc: 502
+    :mnc: 13
+    :name: Celcom
+  - :mcc: 502
+    :mnc: 14
+    :name: ''
+  - :mcc: 502
+    :mnc: 150
+    :name: Tune Talk
+  - :mcc: 502
+    :mnc: 151
+    :name: ''
+  - :mcc: 502
+    :mnc: 152
+    :name: 'Yes'
+  - :mcc: 502
+    :mnc: 156
+    :name: Altel
+  - :mcc: 502
+    :mnc: 16
+    :name: DiGi
+  - :mcc: 502
+    :mnc: 17
+    :name: Hotlink
+  - :mcc: 502
+    :mnc: 18
+    :name: U Mobile
+  - :mcc: 502
+    :mnc: 18
+    :name: TM Homeline
+  - :mcc: 502
+    :mnc: 19
+    :name: Celcom
+  - :mcc: 502
+    :mnc: 20
+    :name: ''
+  - :mcc: 502
+    :mnc: 12
+    :name: Kartu As
+Maldives:
+  :iso: MV
+  :cc: 960
+  :mccs:
+  - 472
+  :operators:
+  - :mcc: 472
+    :mnc: 1
+    :name: Dhiraagu
+  - :mcc: 472
+    :mnc: 2
+    :name: Ooredoo
+Mali:
+  :iso: ML
+  :cc: 223
+  :mccs:
+  - 610
+  :operators:
+  - :mcc: 610
+    :mnc: 1
+    :name: Malitel
+  - :mcc: 610
+    :mnc: 2
+    :name: Orange
+Malta:
+  :iso: MT
+  :cc: 356
+  :mccs:
+  - 278
+  :operators:
+  - :mcc: 278
+    :mnc: 1
+    :name: Vodafone
+  - :mcc: 278
+    :mnc: 21
+    :name: GO
+  - :mcc: 278
+    :mnc: 77
+    :name: Melita
+Marshall Islands:
+  :iso: MH
+  :cc: 692
+  :mccs:
+  - 551
+  :operators:
+  - :mcc: 551
+    :mnc: 1
+    :name: ''
+Martinique (France):
+  :iso: MQ
+  :cc: 0
+  :mccs:
+  - 340
+  :operators:
+  - :mcc: 340
+    :mnc: 1
+    :name: Orange
+  - :mcc: 340
+    :mnc: 2
+    :name: Outremer
+  - :mcc: 340
+    :mnc: 20
+    :name: Digicel
+Mauritania:
+  :iso: MR
+  :cc: 222
+  :mccs:
+  - 609
+  :operators:
+  - :mcc: 609
+    :mnc: 1
+    :name: Mattel
+  - :mcc: 609
+    :mnc: 2
+    :name: Chinguitel
+  - :mcc: 609
+    :mnc: 10
+    :name: Mauritel
+Mauritius:
+  :iso: MU
+  :cc: 230
+  :mccs:
+  - 617
+  :operators:
+  - :mcc: 617
+    :mnc: 1
+    :name: Orange
+  - :mcc: 617
+    :mnc: 2
+    :name: MTML
+  - :mcc: 617
+    :mnc: 10
+    :name: Emtel
+Mayotte (France):
+  :iso: YT
+  :cc: 262
+  :mccs:
+  - 0
+  :operators:
+  - :mcc: 0
+    :mnc: 0
+    :name: ''
+Mexico:
+  :iso: MX
+  :cc: 52
+  :mccs:
+  - 334
+  :operators:
+  - :mcc: 334
+    :mnc: 1
+    :name: Nextel
+  - :mcc: 334
+    :mnc: 2
+    :name: Telcel
+  - :mcc: 334
+    :mnc: 3
+    :name: movistar
+  - :mcc: 334
+    :mnc: 5
+    :name: Iusacell / Unefon
+  - :mcc: 334
+    :mnc: 5
+    :name: Iusacell
+  - :mcc: 334
+    :mnc: 9
+    :name: Nextel
+Federated States of Micronesia:
+  :iso: FM
+  :cc: 691
+  :mccs:
+  - 550
+  :operators:
+  - :mcc: 550
+    :mnc: 1
+    :name: ''
+Moldova:
+  :iso: MD
+  :cc: 373
+  :mccs:
+  - 259
+  :operators:
+  - :mcc: 259
+    :mnc: 1
+    :name: Orange
+  - :mcc: 259
+    :mnc: 2
+    :name: Moldcell
+  - :mcc: 259
+    :mnc: 3
+    :name: IDC
+  - :mcc: 259
+    :mnc: 3
+    :name: Unité
+  - :mcc: 259
+    :mnc: 4
+    :name: Eventis
+  - :mcc: 259
+    :mnc: 5
+    :name: Unité
+  - :mcc: 259
+    :mnc: 99
+    :name: Unité
+Monaco:
+  :iso: MC
+  :cc: 377
+  :mccs:
+  - 212
+  :operators:
+  - :mcc: 212
+    :mnc: 1
+    :name: Office des Telephones
+Mongolia:
+  :iso: MN
+  :cc: 976
+  :mccs:
+  - 428
+  :operators:
+  - :mcc: 428
+    :mnc: 88
+    :name: Unitel
+  - :mcc: 428
+    :mnc: 91
+    :name: Skytel
+  - :mcc: 428
+    :mnc: 98
+    :name: G.Mobile
+  - :mcc: 428
+    :mnc: 99
+    :name: MobiCom
+Montenegro:
+  :iso: ME
+  :cc: 382
+  :mccs:
+  - 297
+  :operators:
+  - :mcc: 297
+    :mnc: 1
+    :name: Telenor
+  - :mcc: 297
+    :mnc: 2
+    :name: T-Mobile
+  - :mcc: 297
+    :mnc: 3
+    :name: m:tel CG
+  - :mcc: 297
+    :mnc: 4
+    :name: T-Mobile
+Montserrat (United Kingdom):
+  :iso: MS
+  :cc: 0
+  :mccs:
+  - 354
+  :operators:
+  - :mcc: 354
+    :mnc: 860
+    :name: Cable & Wireless
+Morocco:
+  :iso: MA
+  :cc: 212
+  :mccs:
+  - 604
+  :operators:
+  - :mcc: 604
+    :mnc: 0
+    :name: Méditel
+  - :mcc: 604
+    :mnc: 1
+    :name: IAM
+  - :mcc: 604
+    :mnc: 2
+    :name: Wana Corporate
+  - :mcc: 604
+    :mnc: 5
+    :name: INWI
+Mozambique:
+  :iso: MZ
+  :cc: 258
+  :mccs:
+  - 643
+  :operators:
+  - :mcc: 643
+    :mnc: 1
+    :name: mCel
+  - :mcc: 643
+    :mnc: 3
+    :name: Movitel
+  - :mcc: 643
+    :mnc: 4
+    :name: Vodacom
+Myanmar:
+  :iso: MM
+  :cc: 95
+  :mccs:
+  - 414
+  :operators:
+  - :mcc: 414
+    :mnc: 1
+    :name: MPT
+  - :mcc: 414
+    :mnc: 5
+    :name: OM
+  - :mcc: 414
+    :mnc: 6
+    :name: NA
+Namibia:
+  :iso: NA
+  :cc: 264
+  :mccs:
+  - 649
+  :operators:
+  - :mcc: 649
+    :mnc: 1
+    :name: MTC
+  - :mcc: 649
+    :mnc: 2
+    :name: switch
+  - :mcc: 649
+    :mnc: 3
+    :name: TN Mobile
+Nauru:
+  :iso: NR
+  :cc: 674
+  :mccs:
+  - 536
+  :operators:
+  - :mcc: 536
+    :mnc: 2
+    :name: Digicel
+Nepal:
+  :iso: NP
+  :cc: 977
+  :mccs:
+  - 429
+  :operators:
+  - :mcc: 429
+    :mnc: 1
+    :name: Namaste / NT Mobile
+  - :mcc: 429
+    :mnc: 2
+    :name: Ncell
+  - :mcc: 429
+    :mnc: 3
+    :name: Sky/C-Phone
+  - :mcc: 429
+    :mnc: 4
+    :name: SmartCell
+Netherlands (Kingdom of the Netherlands):
+  :iso: NL
+  :cc: 31
+  :mccs:
+  - 204
+  :operators:
+  - :mcc: 204
+    :mnc: 1
+    :name: ''
+  - :mcc: 204
+    :mnc: 2
+    :name: Tele2
+  - :mcc: 204
+    :mnc: 3
+    :name: Voiceworks
+  - :mcc: 204
+    :mnc: 4
+    :name: Vodafone
+  - :mcc: 204
+    :mnc: 5
+    :name: ''
+  - :mcc: 204
+    :mnc: 6
+    :name: Vectone Mobile Delight Mobile
+  - :mcc: 204
+    :mnc: 7
+    :name: ''
+  - :mcc: 204
+    :mnc: 8
+    :name: KPN
+  - :mcc: 204
+    :mnc: 9
+    :name: Lycamobile
+  - :mcc: 204
+    :mnc: 10
+    :name: KPN
+  - :mcc: 204
+    :mnc: 11
+    :name: ''
+  - :mcc: 204
+    :mnc: 12
+    :name: Telfort
+  - :mcc: 204
+    :mnc: 13
+    :name: ''
+  - :mcc: 204
+    :mnc: 14
+    :name: ''
+  - :mcc: 204
+    :mnc: 15
+    :name: Ziggo
+  - :mcc: 204
+    :mnc: 16
+    :name: T-Mobile (BEN)
+  - :mcc: 204
+    :mnc: 17
+    :name: Intercity Zakelijk
+  - :mcc: 204
+    :mnc: 18
+    :name: ''
+  - :mcc: 204
+    :mnc: 19
+    :name: ''
+  - :mcc: 204
+    :mnc: 20
+    :name: T-Mobile
+  - :mcc: 204
+    :mnc: 21
+    :name: ''
+  - :mcc: 204
+    :mnc: 22
+    :name: ''
+  - :mcc: 204
+    :mnc: 23
+    :name: ''
+  - :mcc: 204
+    :mnc: 24
+    :name: ''
+  - :mcc: 204
+    :mnc: 25
+    :name: ''
+  - :mcc: 204
+    :mnc: 26
+    :name: ''
+  - :mcc: 204
+    :mnc: 27
+    :name: ''
+  - :mcc: 204
+    :mnc: 28
+    :name: ''
+  - :mcc: 204
+    :mnc: 60
+    :name: ''
+  - :mcc: 204
+    :mnc: 61
+    :name: ''
+  - :mcc: 204
+    :mnc: 62
+    :name: Voxbone
+  - :mcc: 204
+    :mnc: 64
+    :name: ''
+  - :mcc: 204
+    :mnc: 65
+    :name: ''
+  - :mcc: 204
+    :mnc: 66
+    :name: ''
+  - :mcc: 204
+    :mnc: 67
+    :name: ''
+  - :mcc: 204
+    :mnc: 68
+    :name: ''
+  - :mcc: 204
+    :mnc: 69
+    :name: ''
+Former Netherlands Antilles (Kingdom of the Netherlands):
+  :iso: AN
+  :cc: 0
+  :mccs:
+  - 362
+  :operators:
+  - :mcc: 362
+    :mnc: 51
+    :name: Telcell
+  - :mcc: 362
+    :mnc: 69
+    :name: Digicel
+  - :mcc: 362
+    :mnc: 91
+    :name: UTS
+  - :mcc: 362
+    :mnc: 0
+    :name: ''
+  - :mcc: 362
+    :mnc: 94
+    :name: Bayòs
+  - :mcc: 362
+    :mnc: 95
+    :name: MIO
+New Caledonia (France):
+  :iso: NC
+  :cc: 687
+  :mccs:
+  - 546
+  :operators:
+  - :mcc: 546
+    :mnc: 1
+    :name: Mobilis
+New Zealand:
+  :iso: NZ
+  :cc: 64
+  :mccs:
+  - 530
+  :operators:
+  - :mcc: 530
+    :mnc: 0
+    :name: Telecom
+  - :mcc: 530
+    :mnc: 1
+    :name: Vodafone
+  - :mcc: 530
+    :mnc: 2
+    :name: Telecom
+  - :mcc: 530
+    :mnc: 3
+    :name: Woosh
+  - :mcc: 530
+    :mnc: 4
+    :name: TelstraClear
+  - :mcc: 530
+    :mnc: 5
+    :name: XT Mobile Network
+  - :mcc: 530
+    :mnc: 6
+    :name: Skinny
+  - :mcc: 530
+    :mnc: 24
+    :name: 2degrees
+Nicaragua:
+  :iso: NI
+  :cc: 505
+  :mccs:
+  - 710
+  :operators:
+  - :mcc: 710
+    :mnc: 21
+    :name: Claro
+  - :mcc: 710
+    :mnc: 30
+    :name: movistar
+  - :mcc: 710
+    :mnc: 73
+    :name: SERCOM
+Niger:
+  :iso: NE
+  :cc: 227
+  :mccs:
+  - 614
+  :operators:
+  - :mcc: 614
+    :mnc: 1
+    :name: SahelCom
+  - :mcc: 614
+    :mnc: 2
+    :name: Airtel
+  - :mcc: 614
+    :mnc: 3
+    :name: Moov
+  - :mcc: 614
+    :mnc: 4
+    :name: Orange
+Nigeria:
+  :iso: NG
+  :cc: 234
+  :mccs:
+  - 621
+  :operators:
+  - :mcc: 621
+    :mnc: 20
+    :name: Airtel
+  - :mcc: 621
+    :mnc: 25
+    :name: Visafone
+  - :mcc: 621
+    :mnc: 30
+    :name: MTN
+  - :mcc: 621
+    :mnc: 40
+    :name: M-Tel
+  - :mcc: 621
+    :mnc: 50
+    :name: Glo
+  - :mcc: 621
+    :mnc: 60
+    :name: Etisalat
+Niue:
+  :iso: NU
+  :cc: 683
+  :mccs:
+  - 555
+  :operators:
+  - :mcc: 555
+    :mnc: 1
+    :name: Telecom Niue
+Norfolk Island:
+  :iso: NF
+  :cc: 0
+  :mccs:
+  - 505
+  :operators:
+  - :mcc: 505
+    :mnc: 10
+    :name: Norfolk Telecom
+Northern Mariana Islands:
+  :iso: MP
+  :cc: 0
+  :mccs:
+  - 0
+  :operators:
+  - :mcc: 0
+    :mnc: 0
+    :name: ''
+Norway:
+  :iso: 'NO'
+  :cc: 47
+  :mccs:
+  - 242
+  :operators:
+  - :mcc: 242
+    :mnc: 1
+    :name: Telenor
+  - :mcc: 242
+    :mnc: 2
+    :name: NetCom
+  - :mcc: 242
+    :mnc: 3
+    :name: Teletopia
+  - :mcc: 242
+    :mnc: 4
+    :name: Tele2
+  - :mcc: 242
+    :mnc: 5
+    :name: Network Norway
+  - :mcc: 242
+    :mnc: 6
+    :name: Ice
+  - :mcc: 242
+    :mnc: 7
+    :name: Ventelo
+  - :mcc: 242
+    :mnc: 8
+    :name: TDC
+  - :mcc: 242
+    :mnc: 9
+    :name: Com4
+  - :mcc: 242
+    :mnc: 11
+    :name: SystemNet
+  - :mcc: 242
+    :mnc: 12
+    :name: Telenor
+  - :mcc: 242
+    :mnc: 20
+    :name: ''
+  - :mcc: 242
+    :mnc: 21
+    :name: ''
+  - :mcc: 242
+    :mnc: 23
+    :name: Lyca
+  - :mcc: 242
+    :mnc: 24
+    :name: ''
+  - :mcc: 242
+    :mnc: 25
+    :name: ''
+Oman:
+  :iso: OM
+  :cc: 968
+  :mccs:
+  - 422
+  :operators:
+  - :mcc: 422
+    :mnc: 2
+    :name: Oman Mobile
+  - :mcc: 422
+    :mnc: 3
+    :name: Nawras
+Pakistan:
+  :iso: PK
+  :cc: 92
+  :mccs:
+  - 410
+  :operators:
+  - :mcc: 410
+    :mnc: 1
+    :name: Mobilink
+  - :mcc: 410
+    :mnc: 3
+    :name: Ufone
+  - :mcc: 410
+    :mnc: 4
+    :name: Zong
+  - :mcc: 410
+    :mnc: 5
+    :name: SCO Mobile
+  - :mcc: 410
+    :mnc: 6
+    :name: Telenor
+  - :mcc: 410
+    :mnc: 7
+    :name: Warid Pakistan
+Palau:
+  :iso: PW
+  :cc: 680
+  :mccs:
+  - 552
+  :operators:
+  - :mcc: 552
+    :mnc: 1
+    :name: PNCC
+  - :mcc: 552
+    :mnc: 80
+    :name: Palau Mobile
+Palestine, State of:
+  :iso: PS
+  :cc: 0
+  :mccs:
+  - 425
+  :operators:
+  - :mcc: 425
+    :mnc: 5
+    :name: Jawwal
+  - :mcc: 425
+    :mnc: 6
+    :name: Wataniya
+Panama:
+  :iso: PA
+  :cc: 507
+  :mccs:
+  - 714
+  :operators:
+  - :mcc: 714
+    :mnc: 1
+    :name: Cable & Wireless
+  - :mcc: 714
+    :mnc: 2
+    :name: movistar
+  - :mcc: 714
+    :mnc: 3
+    :name: Claro
+  - :mcc: 714
+    :mnc: 4
+    :name: Digicel
+Papua New Guinea:
+  :iso: PG
+  :cc: 675
+  :mccs:
+  - 537
+  :operators:
+  - :mcc: 537
+    :mnc: 1
+    :name: bmobile
+  - :mcc: 537
+    :mnc: 3
+    :name: Digicel
+Paraguay:
+  :iso: PY
+  :cc: 595
+  :mccs:
+  - 744
+  :operators:
+  - :mcc: 744
+    :mnc: 1
+    :name: VOX
+  - :mcc: 744
+    :mnc: 2
+    :name: Claro/Hutchison
+  - :mcc: 744
+    :mnc: 4
+    :name: Tigo
+  - :mcc: 744
+    :mnc: 5
+    :name: Personal
+  - :mcc: 744
+    :mnc: 6
+    :name: Copaco
+Peru:
+  :iso: PE
+  :cc: 51
+  :mccs:
+  - 716
+  :operators:
+  - :mcc: 716
+    :mnc: 6
+    :name: Movistar
+  - :mcc: 716
+    :mnc: 7
+    :name: NEXTEL
+  - :mcc: 716
+    :mnc: 10
+    :name: Claro (TIM)
+  - :mcc: 716
+    :mnc: 15
+    :name: Viettel Mobile
+  - :mcc: 716
+    :mnc: 17
+    :name: NEXTEL
+Philippines:
+  :iso: PH
+  :cc: 63
+  :mccs:
+  - 515
+  :operators:
+  - :mcc: 515
+    :mnc: 1
+    :name: Islacom
+  - :mcc: 515
+    :mnc: 2
+    :name: Globe
+  - :mcc: 515
+    :mnc: 3
+    :name: Smart
+  - :mcc: 515
+    :mnc: 5
+    :name: Sun
+  - :mcc: 515
+    :mnc: 11
+    :name: ''
+  - :mcc: 515
+    :mnc: 18
+    :name: Cure
+  - :mcc: 515
+    :mnc: 24
+    :name: ABS-CBN
+  - :mcc: 515
+    :mnc: 88
+    :name: ''
+Pitcairn Islands (United Kingdom):
+  :iso: PN
+  :cc: 870
+  :mccs:
+  - 0
+  :operators:
+  - :mcc: 0
+    :mnc: 0
+    :name: ''
+Poland:
+  :iso: PL
+  :cc: 48
+  :mccs:
+  - 260
+  :operators:
+  - :mcc: 260
+    :mnc: 1
+    :name: Plus
+  - :mcc: 260
+    :mnc: 2
+    :name: T-Mobile
+  - :mcc: 260
+    :mnc: 3
+    :name: Orange
+  - :mcc: 260
+    :mnc: 4
+    :name: ''
+  - :mcc: 260
+    :mnc: 5
+    :name: ''
+  - :mcc: 260
+    :mnc: 6
+    :name: Play
+  - :mcc: 260
+    :mnc: 7
+    :name: Netia
+  - :mcc: 260
+    :mnc: 8
+    :name: ''
+  - :mcc: 260
+    :mnc: 9
+    :name: Lycamobile
+  - :mcc: 260
+    :mnc: 10
+    :name: Sferia
+  - :mcc: 260
+    :mnc: 11
+    :name: Nordisk Polska
+  - :mcc: 260
+    :mnc: 12
+    :name: Cyfrowy Polsat
+  - :mcc: 260
+    :mnc: 13
+    :name: Sferia
+  - :mcc: 260
+    :mnc: 14
+    :name: Sferia
+  - :mcc: 260
+    :mnc: 15
+    :name: CenterNet
+  - :mcc: 260
+    :mnc: 16
+    :name: Mobyland
+  - :mcc: 260
+    :mnc: 17
+    :name: Aero2
+  - :mcc: 260
+    :mnc: 32
+    :name: Voxbone
+  - :mcc: 260
+    :mnc: 34
+    :name: ''
+  - :mcc: 260
+    :mnc: 98
+    :name: ''
+Portugal:
+  :iso: PT
+  :cc: 351
+  :mccs:
+  - 268
+  :operators:
+  - :mcc: 268
+    :mnc: 1
+    :name: Vodafone
+  - :mcc: 268
+    :mnc: 3
+    :name: Optimus
+  - :mcc: 268
+    :mnc: 4
+    :name: LycaMobile
+  - :mcc: 268
+    :mnc: 6
+    :name: TMN
+  - :mcc: 268
+    :mnc: 7
+    :name: Vectonemobile - Delightmobile
+  - :mcc: 268
+    :mnc: 21
+    :name: Zapp
+Puerto Rico:
+  :iso: PR
+  :cc: 1
+  :mccs:
+  - 330
+  :operators:
+  - :mcc: 330
+    :mnc: 0
+    :name: Open Mobile
+  - :mcc: 330
+    :mnc: 110
+    :name: Claro Puerto Rico
+  - :mcc: 330
+    :mnc: 120
+    :name: Open Mobile
+Qatar:
+  :iso: QA
+  :cc: 974
+  :mccs:
+  - 427
+  :operators:
+  - :mcc: 427
+    :mnc: 1
+    :name: ooredoo
+  - :mcc: 427
+    :mnc: 2
+    :name: Vodafone
+  - :mcc: 427
+    :mnc: 5
+    :name: Ministry of Interior
+  - :mcc: 427
+    :mnc: 6
+    :name: Ministry of Interior
+Réunion (France):
+  :iso: RE
+  :cc: 0
+  :mccs:
+  - 647
+  :operators:
+  - :mcc: 647
+    :mnc: 0
+    :name: Orange
+  - :mcc: 647
+    :mnc: 1
+    :name: ''
+  - :mcc: 647
+    :mnc: 2
+    :name: Outremer
+  - :mcc: 647
+    :mnc: 10
+    :name: SFR Reunion
+Romania:
+  :iso: RO
+  :cc: 40
+  :mccs:
+  - 226
+  :operators:
+  - :mcc: 226
+    :mnc: 1
+    :name: Vodafone
+  - :mcc: 226
+    :mnc: 2
+    :name: Romtelecom
+  - :mcc: 226
+    :mnc: 3
+    :name: Cosmote
+  - :mcc: 226
+    :mnc: 4
+    :name: Cosmote/Zapp
+  - :mcc: 226
+    :mnc: 5
+    :name: Digi.Mobil
+  - :mcc: 226
+    :mnc: 6
+    :name: Cosmote/Zapp
+  - :mcc: 226
+    :mnc: 10
+    :name: Orange
+Russian Federation:
+  :iso: RU
+  :cc: 7
+  :mccs:
+  - 250
+  :operators:
+  - :mcc: 250
+    :mnc: 1
+    :name: MTS
+  - :mcc: 250
+    :mnc: 2
+    :name: MegaFon
+  - :mcc: 250
+    :mnc: 3
+    :name: NCC
+  - :mcc: 250
+    :mnc: 4
+    :name: Sibchallenge
+  - :mcc: 250
+    :mnc: 5
+    :name: ETK
+  - :mcc: 250
+    :mnc: 6
+    :name: Skylink
+  - :mcc: 250
+    :mnc: 7
+    :name: SMARTS
+  - :mcc: 250
+    :mnc: 9
+    :name: Skylink
+  - :mcc: 250
+    :mnc: 10
+    :name: DTC
+  - :mcc: 250
+    :mnc: 11
+    :name: Yota
+  - :mcc: 250
+    :mnc: 12
+    :name: Baykalwestcom
+  - :mcc: 250
+    :mnc: 12
+    :name: Akos
+  - :mcc: 250
+    :mnc: 13
+    :name: KUGSM
+  - :mcc: 250
+    :mnc: 14
+    :name: MegaFon
+  - :mcc: 250
+    :mnc: 15
+    :name: SMARTS
+  - :mcc: 250
+    :mnc: 16
+    :name: NTC
+  - :mcc: 250
+    :mnc: 17
+    :name: Utel
+  - :mcc: 250
+    :mnc: 18
+    :name: Osnova Telecom
+  - :mcc: 250
+    :mnc: 19
+    :name: INDIGO
+  - :mcc: 250
+    :mnc: 20
+    :name: Tele2
+  - :mcc: 250
+    :mnc: 23
+    :name: Mobicom - Novosibirsk
+  - :mcc: 250
+    :mnc: 28
+    :name: Beeline
+  - :mcc: 250
+    :mnc: 35
+    :name: MOTIV
+  - :mcc: 250
+    :mnc: 38
+    :name: Tambov GSM
+  - :mcc: 250
+    :mnc: 39
+    :name: Rostelecom
+  - :mcc: 250
+    :mnc: 44
+    :name: ''
+  - :mcc: 250
+    :mnc: 50
+    :name: MTS
+  - :mcc: 250
+    :mnc: 91
+    :name: Sonic Duo
+  - :mcc: 250
+    :mnc: 92
+    :name: ''
+  - :mcc: 250
+    :mnc: 93
+    :name: ''
+  - :mcc: 250
+    :mnc: 99
+    :name: Beeline
+  - :mcc: 250
+    :mnc: 0
+    :name: ''
+Rwanda:
+  :iso: RW
+  :cc: 250
+  :mccs:
+  - 635
+  :operators:
+  - :mcc: 635
+    :mnc: 10
+    :name: MTN
+  - :mcc: 635
+    :mnc: 12
+    :name: Rwandatel
+  - :mcc: 635
+    :mnc: 13
+    :name: Tigo
+  - :mcc: 635
+    :mnc: 14
+    :name: Airtel
+  - :mcc: 635
+    :mnc: 17
+    :name: ''
+Saint Kitts and Nevis:
+  :iso: KN
+  :cc: 0
+  :mccs:
+  - 356
+  :operators:
+  - :mcc: 356
+    :mnc: 50
+    :name: Digicel
+  - :mcc: 356
+    :mnc: 70
+    :name: Chippie
+  - :mcc: 356
+    :mnc: 110
+    :name: LIME
+Saint Lucia:
+  :iso: LC
+  :cc: 0
+  :mccs:
+  - 358
+  :operators:
+  - :mcc: 358
+    :mnc: 50
+    :name: Digicel[citation needed]
+  - :mcc: 358
+    :mnc: 110
+    :name: ''
+Saint Pierre and Miquelon (France):
+  :iso: PM
+  :cc: 508
+  :mccs:
+  - 308
+  :operators:
+  - :mcc: 308
+    :mnc: 1
+    :name: Ameris
+  - :mcc: 308
+    :mnc: 2
+    :name: GLOBALTEL
+Saint Vincent and the Grenadines:
+  :iso: VC
+  :cc: 0
+  :mccs:
+  - 360
+  :operators:
+  - :mcc: 360
+    :mnc: 70
+    :name: Digicel
+  - :mcc: 360
+    :mnc: 100
+    :name: Cingular Wireless
+  - :mcc: 360
+    :mnc: 110
+    :name: Lime
+Samoa:
+  :iso: WS
+  :cc: 685
+  :mccs:
+  - 549
+  :operators:
+  - :mcc: 549
+    :mnc: 1
+    :name: Digicel
+  - :mcc: 549
+    :mnc: 27
+    :name: Bluesky
+San Marino:
+  :iso: SM
+  :cc: 378
+  :mccs:
+  - 292
+  :operators:
+  - :mcc: 292
+    :mnc: 1
+    :name: PRIMA
+Sao Tome and Principe:
+  :iso: ST
+  :cc: 239
+  :mccs:
+  - 626
+  :operators:
+  - :mcc: 626
+    :mnc: 1
+    :name: CSTmovel
+Saudi Arabia:
+  :iso: SA
+  :cc: 966
+  :mccs:
+  - 420
+  :operators:
+  - :mcc: 420
+    :mnc: 1
+    :name: Al Jawal (STC )
+  - :mcc: 420
+    :mnc: 3
+    :name: Mobily
+  - :mcc: 420
+    :mnc: 4
+    :name: Zain SA
+  - :mcc: 420
+    :mnc: 21
+    :name: RGSM
+Senegal:
+  :iso: SN
+  :cc: 221
+  :mccs:
+  - 608
+  :operators:
+  - :mcc: 608
+    :mnc: 1
+    :name: Orange
+  - :mcc: 608
+    :mnc: 2
+    :name: Tigo
+  - :mcc: 608
+    :mnc: 3
+    :name: Expresso
+  - :mcc: 608
+    :mnc: 4
+    :name: ''
+Serbia:
+  :iso: RS
+  :cc: 381
+  :mccs:
+  - 220
+  :operators:
+  - :mcc: 220
+    :mnc: 1
+    :name: Telenor
+  - :mcc: 220
+    :mnc: 2
+    :name: Telenor
+  - :mcc: 220
+    :mnc: 3
+    :name: mt:s
+  - :mcc: 220
+    :mnc: 5
+    :name: VIP
+Seychelles:
+  :iso: SC
+  :cc: 248
+  :mccs:
+  - 633
+  :operators:
+  - :mcc: 633
+    :mnc: 1
+    :name: Cable & Wireless
+  - :mcc: 633
+    :mnc: 2
+    :name: Mediatech International
+  - :mcc: 633
+    :mnc: 10
+    :name: Airtel
+Sierra Leone:
+  :iso: SL
+  :cc: 232
+  :mccs:
+  - 619
+  :operators:
+  - :mcc: 619
+    :mnc: 1
+    :name: Airtel
+  - :mcc: 619
+    :mnc: 3
+    :name: Africell
+  - :mcc: 619
+    :mnc: 4
+    :name: Comium
+  - :mcc: 619
+    :mnc: 5
+    :name: Africell
+  - :mcc: 619
+    :mnc: 6
+    :name: SierraTel
+  - :mcc: 619
+    :mnc: 25
+    :name: Mobitel
+  - :mcc: 619
+    :mnc: 0
+    :name: GreenNet
+Singapore:
+  :iso: SG
+  :cc: 65
+  :mccs:
+  - 525
+  :operators:
+  - :mcc: 525
+    :mnc: 1
+    :name: SingTel
+  - :mcc: 525
+    :mnc: 2
+    :name: SingTel-G18
+  - :mcc: 525
+    :mnc: 3
+    :name: M1
+  - :mcc: 525
+    :mnc: 5
+    :name: StarHub
+  - :mcc: 525
+    :mnc: 6
+    :name: StarHub
+  - :mcc: 525
+    :mnc: 7
+    :name: SingTel
+  - :mcc: 525
+    :mnc: 12
+    :name: Grid
+Slovakia:
+  :iso: SK
+  :cc: 421
+  :mccs:
+  - 231
+  :operators:
+  - :mcc: 231
+    :mnc: 1
+    :name: Orange
+  - :mcc: 231
+    :mnc: 2
+    :name: Telekom
+  - :mcc: 231
+    :mnc: 3
+    :name: ''
+  - :mcc: 231
+    :mnc: 4
+    :name: T-Mobile
+  - :mcc: 231
+    :mnc: 6
+    :name: O2
+  - :mcc: 231
+    :mnc: 99
+    :name: "ŽSR"
+Slovenia:
+  :iso: SI
+  :cc: 386
+  :mccs:
+  - 293
+  :operators:
+  - :mcc: 293
+    :mnc: 31
+    :name: Mobitel
+  - :mcc: 293
+    :mnc: 40
+    :name: Si.mobil
+  - :mcc: 293
+    :mnc: 41
+    :name: Mobitel
+  - :mcc: 293
+    :mnc: 51
+    :name: Mobitel
+  - :mcc: 293
+    :mnc: 64
+    :name: T-2
+  - :mcc: 293
+    :mnc: 70
+    :name: Tušmobil
+Solomon Islands:
+  :iso: SB
+  :cc: 677
+  :mccs:
+  - 540
+  :operators:
+  - :mcc: 540
+    :mnc: 1
+    :name: BREEZE
+  - :mcc: 540
+    :mnc: 2
+    :name: BeMobile
+Somalia:
+  :iso: SO
+  :cc: 252
+  :mccs:
+  - 637
+  :operators:
+  - :mcc: 637
+    :mnc: 1
+    :name: Telesom
+  - :mcc: 637
+    :mnc: 4
+    :name: SomaCyber
+  - :mcc: 637
+    :mnc: 4
+    :name: Somafone
+  - :mcc: 637
+    :mnc: 10
+    :name: Nationlink
+  - :mcc: 637
+    :mnc: 50
+    :name: Hormuud
+  - :mcc: 637
+    :mnc: 30
+    :name: Golis
+  - :mcc: 637
+    :mnc: 57
+    :name: Unittel
+  - :mcc: 637
+    :mnc: 60
+    :name: Nationlink Telecom
+  - :mcc: 637
+    :mnc: 71
+    :name: Somtel
+  - :mcc: 637
+    :mnc: 82
+    :name: Telcom
+South Africa:
+  :iso: ZA
+  :cc: 27
+  :mccs:
+  - 655
+  :operators:
+  - :mcc: 655
+    :mnc: 1
+    :name: Vodacom
+  - :mcc: 655
+    :mnc: 2
+    :name: Telkom Mobile / 8.ta / Telekom SA
+  - :mcc: 655
+    :mnc: 6
+    :name: Sentech
+  - :mcc: 655
+    :mnc: 7
+    :name: Cell C
+  - :mcc: 655
+    :mnc: 10
+    :name: MTN
+  - :mcc: 655
+    :mnc: 11
+    :name: ''
+  - :mcc: 655
+    :mnc: 13
+    :name: Neotel
+  - :mcc: 655
+    :mnc: 14
+    :name: Neotel
+  - :mcc: 655
+    :mnc: 19
+    :name: iBurst
+  - :mcc: 655
+    :mnc: 21
+    :name: ''
+  - :mcc: 655
+    :mnc: 30
+    :name: ''
+  - :mcc: 655
+    :mnc: 31
+    :name: ''
+  - :mcc: 655
+    :mnc: 32
+    :name: ''
+  - :mcc: 655
+    :mnc: 33
+    :name: ''
+  - :mcc: 655
+    :mnc: 50
+    :name: ''
+  - :mcc: 655
+    :mnc: 51
+    :name: ''
+South Sudan:
+  :iso: SS[113]
+  :cc: 0
+  :mccs:
+  - 659
+  :operators:
+  - :mcc: 659
+    :mnc: 2
+    :name: MTN
+  - :mcc: 659
+    :mnc: 3
+    :name: Gemtel
+  - :mcc: 659
+    :mnc: 4
+    :name: Vivacell
+  - :mcc: 659
+    :mnc: 6
+    :name: Zain
+  - :mcc: 659
+    :mnc: 7
+    :name: Sudani
+Spain:
+  :iso: ES
+  :cc: 34
+  :mccs:
+  - 214
+  :operators:
+  - :mcc: 214
+    :mnc: 1
+    :name: Vodafone
+  - :mcc: 214
+    :mnc: 3
+    :name: Orange
+  - :mcc: 214
+    :mnc: 4
+    :name: Yoigo
+  - :mcc: 214
+    :mnc: 5
+    :name: TME
+  - :mcc: 214
+    :mnc: 6
+    :name: Vodafone
+  - :mcc: 214
+    :mnc: 7
+    :name: movistar
+  - :mcc: 214
+    :mnc: 8
+    :name: Euskaltel
+  - :mcc: 214
+    :mnc: 9
+    :name: Orange
+  - :mcc: 214
+    :mnc: 15
+    :name: BT
+  - :mcc: 214
+    :mnc: 16
+    :name: TeleCable
+  - :mcc: 214
+    :mnc: 17
+    :name: Móbil R
+  - :mcc: 214
+    :mnc: 18
+    :name: ONO
+  - :mcc: 214
+    :mnc: 19
+    :name: Simyo
+  - :mcc: 214
+    :mnc: 20
+    :name: Fonyou
+  - :mcc: 214
+    :mnc: 21
+    :name: Jazztel
+  - :mcc: 214
+    :mnc: 22
+    :name: DigiMobil
+  - :mcc: 214
+    :mnc: 23
+    :name: Barablu
+  - :mcc: 214
+    :mnc: 24
+    :name: Eroski
+  - :mcc: 214
+    :mnc: 25
+    :name: Lycamobile
+  - :mcc: 214
+    :mnc: 28
+    :name: ''
+  - :mcc: 214
+    :mnc: 29
+    :name: ''
+  - :mcc: 214
+    :mnc: 30
+    :name: ''
+  - :mcc: 214
+    :mnc: 31
+    :name: ''
+Sri Lanka:
+  :iso: LK
+  :cc: 94
+  :mccs:
+  - 413
+  :operators:
+  - :mcc: 413
+    :mnc: 1
+    :name: Mobitel
+  - :mcc: 413
+    :mnc: 2
+    :name: Dialog
+  - :mcc: 413
+    :mnc: 3
+    :name: Etisalat
+  - :mcc: 413
+    :mnc: 4
+    :name: Lanka Bell
+  - :mcc: 413
+    :mnc: 5
+    :name: Airtel
+  - :mcc: 413
+    :mnc: 8
+    :name: Hutch
+  - :mcc: 413
+    :mnc: 11
+    :name: Dialog
+  - :mcc: 413
+    :mnc: 17
+    :name: Dialog
+Sudan:
+  :iso: SD
+  :cc: 249
+  :mccs:
+  - 634
+  :operators:
+  - :mcc: 634
+    :mnc: 1
+    :name: Zain SD
+  - :mcc: 634
+    :mnc: 2
+    :name: MTN
+  - :mcc: 634
+    :mnc: 5
+    :name: Canar Telecom
+  - :mcc: 634
+    :mnc: 7
+    :name: Sudani One
+  - :mcc: 634
+    :mnc: 9
+    :name: Privet Network
+Suriname:
+  :iso: SR
+  :cc: 597
+  :mccs:
+  - 746
+  :operators:
+  - :mcc: 746
+    :mnc: 2
+    :name: Telesur
+  - :mcc: 746
+    :mnc: 3
+    :name: Digicel
+  - :mcc: 746
+    :mnc: 4
+    :name: Uniqa
+Swaziland:
+  :iso: SZ
+  :cc: 268
+  :mccs:
+  - 653
+  :operators:
+  - :mcc: 653
+    :mnc: 10
+    :name: Swazi MTN
+Sweden:
+  :iso: SE
+  :cc: 46
+  :mccs:
+  - 240
+  :operators:
+  - :mcc: 240
+    :mnc: 1
+    :name: Telia
+  - :mcc: 240
+    :mnc: 2
+    :name: '3'
+  - :mcc: 240
+    :mnc: 3
+    :name: Net 1
+  - :mcc: 240
+    :mnc: 4
+    :name: SWEDEN
+  - :mcc: 240
+    :mnc: 5
+    :name: Sweden 3G
+  - :mcc: 240
+    :mnc: 6
+    :name: Telenor
+  - :mcc: 240
+    :mnc: 7
+    :name: Tele2
+  - :mcc: 240
+    :mnc: 8
+    :name: Telenor
+  - :mcc: 240
+    :mnc: 9
+    :name: djuice
+  - :mcc: 240
+    :mnc: 10
+    :name: Spring Mobil
+  - :mcc: 240
+    :mnc: 11
+    :name: ''
+  - :mcc: 240
+    :mnc: 12
+    :name: Lycamobile
+  - :mcc: 240
+    :mnc: 13
+    :name: ''
+  - :mcc: 240
+    :mnc: 14
+    :name: ''
+  - :mcc: 240
+    :mnc: 15
+    :name: ''
+  - :mcc: 240
+    :mnc: 16
+    :name: ''
+  - :mcc: 240
+    :mnc: 17
+    :name: Gotanet
+  - :mcc: 240
+    :mnc: 18
+    :name: ''
+  - :mcc: 240
+    :mnc: 19
+    :name: Vectone Mobile / Delight Mobile
+  - :mcc: 240
+    :mnc: 20
+    :name: ''
+  - :mcc: 240
+    :mnc: 21
+    :name: MobiSir
+  - :mcc: 240
+    :mnc: 22
+    :name: ''
+  - :mcc: 240
+    :mnc: 23
+    :name: ''
+  - :mcc: 240
+    :mnc: 24
+    :name: Sweden 2G
+  - :mcc: 240
+    :mnc: 25
+    :name: ''
+  - :mcc: 240
+    :mnc: 26
+    :name: ''
+  - :mcc: 240
+    :mnc: 27
+    :name: ''
+  - :mcc: 240
+    :mnc: 28
+    :name: ''
+  - :mcc: 240
+    :mnc: 29
+    :name: ''
+  - :mcc: 240
+    :mnc: 30
+    :name: ''
+  - :mcc: 240
+    :mnc: 31
+    :name: ''
+  - :mcc: 240
+    :mnc: 32
+    :name: ''
+  - :mcc: 240
+    :mnc: 33
+    :name: ''
+  - :mcc: 240
+    :mnc: 34
+    :name: ''
+  - :mcc: 240
+    :mnc: 35
+    :name: ''
+  - :mcc: 240
+    :mnc: 36
+    :name: ''
+  - :mcc: 240
+    :mnc: 37
+    :name: ''
+  - :mcc: 240
+    :mnc: 38
+    :name: Voxbone
+  - :mcc: 240
+    :mnc: 39
+    :name: ''
+  - :mcc: 240
+    :mnc: 40
+    :name: ''
+  - :mcc: 240
+    :mnc: 41
+    :name: ''
+  - :mcc: 240
+    :mnc: 42
+    :name: ''
+  - :mcc: 240
+    :mnc: 43
+    :name: ''
+  - :mcc: 240
+    :mnc: 44
+    :name: ''
+Switzerland:
+  :iso: CH
+  :cc: 41
+  :mccs:
+  - 228
+  :operators:
+  - :mcc: 228
+    :mnc: 1
+    :name: Swisscom
+  - :mcc: 228
+    :mnc: 2
+    :name: Sunrise
+  - :mcc: 228
+    :mnc: 3
+    :name: Orange
+  - :mcc: 228
+    :mnc: 5
+    :name: ''
+  - :mcc: 228
+    :mnc: 6
+    :name: SBB-CFF-FFS
+  - :mcc: 228
+    :mnc: 7
+    :name: IN&Phone
+  - :mcc: 228
+    :mnc: 8
+    :name: Tele4u
+  - :mcc: 228
+    :mnc: 9
+    :name: ''
+  - :mcc: 228
+    :mnc: 12
+    :name: ''
+  - :mcc: 228
+    :mnc: 50
+    :name: ''
+  - :mcc: 228
+    :mnc: 51
+    :name: ''
+  - :mcc: 228
+    :mnc: 52
+    :name: Barablu
+  - :mcc: 228
+    :mnc: 53
+    :name: ''
+  - :mcc: 228
+    :mnc: 54
+    :name: ''
+  - :mcc: 228
+    :mnc: 99
+    :name: ''
+Syria:
+  :iso: SY
+  :cc: 963
+  :mccs:
+  - 417
+  :operators:
+  - :mcc: 417
+    :mnc: 1
+    :name: Syriatel
+  - :mcc: 417
+    :mnc: 2
+    :name: MTN
+Taiwan:
+  :iso: TW
+  :cc: 886
+  :mccs:
+  - 466
+  :operators:
+  - :mcc: 466
+    :mnc: 1
+    :name: FarEasTone
+  - :mcc: 466
+    :mnc: 5
+    :name: APTG
+  - :mcc: 466
+    :mnc: 6
+    :name: FarEasTone
+  - :mcc: 466
+    :mnc: 11
+    :name: Chunghwa LDM
+  - :mcc: 466
+    :mnc: 88
+    :name: FarEasTone
+  - :mcc: 466
+    :mnc: 89
+    :name: VIBO
+  - :mcc: 466
+    :mnc: 92
+    :name: Chungwa
+  - :mcc: 466
+    :mnc: 93
+    :name: MobiTai
+  - :mcc: 466
+    :mnc: 97
+    :name: Taiwan Mobile
+  - :mcc: 466
+    :mnc: 99
+    :name: TransAsia
+Tajikistan:
+  :iso: TJ
+  :cc: 992
+  :mccs:
+  - 436
+  :operators:
+  - :mcc: 436
+    :mnc: 1
+    :name: Tcell
+  - :mcc: 436
+    :mnc: 2
+    :name: Tcell
+  - :mcc: 436
+    :mnc: 3
+    :name: Megafon Tajikistan
+  - :mcc: 436
+    :mnc: 4
+    :name: Babilon-M
+  - :mcc: 436
+    :mnc: 5
+    :name: Beeline
+  - :mcc: 436
+    :mnc: 12
+    :name: Tcell
+Tanzania:
+  :iso: TZ
+  :cc: 255
+  :mccs:
+  - 640
+  :operators:
+  - :mcc: 640
+    :mnc: 2
+    :name: tiGO
+  - :mcc: 640
+    :mnc: 3
+    :name: Zantel
+  - :mcc: 640
+    :mnc: 4
+    :name: Vodacom
+  - :mcc: 640
+    :mnc: 5
+    :name: Airtel
+  - :mcc: 640
+    :mnc: 6
+    :name: Sasatel
+  - :mcc: 640
+    :mnc: 7
+    :name: TTCL Mobile
+  - :mcc: 640
+    :mnc: 8
+    :name: Benson Online (BOL)
+  - :mcc: 640
+    :mnc: 9
+    :name: Hits
+  - :mcc: 640
+    :mnc: 11
+    :name: SmileCom
+Thailand:
+  :iso: TH
+  :cc: 66
+  :mccs:
+  - 520
+  :operators:
+  - :mcc: 520
+    :mnc: 0
+    :name: my by CAT
+  - :mcc: 520
+    :mnc: 1
+    :name: AIS
+  - :mcc: 520
+    :mnc: 2
+    :name: CAT CDMA
+  - :mcc: 520
+    :mnc: 3
+    :name: AIS 3G
+  - :mcc: 520
+    :mnc: 4
+    :name: truemove H 4G LTE
+  - :mcc: 520
+    :mnc: 5
+    :name: dtac TriNet
+  - :mcc: 520
+    :mnc: 10
+    :name: " ?"
+  - :mcc: 520
+    :mnc: 15
+    :name: TOT 3G
+  - :mcc: 520
+    :mnc: 18
+    :name: dtac
+  - :mcc: 520
+    :mnc: 23
+    :name: AIS GSM 1800
+  - :mcc: 520
+    :mnc: 25
+    :name: WE PCT
+  - :mcc: 520
+    :mnc: 47
+    :name: ''
+  - :mcc: 520
+    :mnc: 99
+    :name: truemove
+Togo:
+  :iso: TG
+  :cc: 228
+  :mccs:
+  - 615
+  :operators:
+  - :mcc: 615
+    :mnc: 1
+    :name: Togo Cell
+  - :mcc: 615
+    :mnc: 3
+    :name: Moov
+Tonga:
+  :iso: TO
+  :cc: 676
+  :mccs:
+  - 539
+  :operators:
+  - :mcc: 539
+    :mnc: 1
+    :name: U-Call
+  - :mcc: 539
+    :mnc: 43
+    :name: ''
+  - :mcc: 539
+    :mnc: 88
+    :name: Digicel
+Trinidad and Tobago:
+  :iso: TT
+  :cc: 0
+  :mccs:
+  - 374
+  :operators:
+  - :mcc: 374
+    :mnc: 12
+    :name: bmobile
+  - :mcc: 374
+    :mnc: 130
+    :name: Digicel
+Tunisia:
+  :iso: TN
+  :cc: 216
+  :mccs:
+  - 605
+  :operators:
+  - :mcc: 605
+    :mnc: 1
+    :name: Orange
+  - :mcc: 605
+    :mnc: 2
+    :name: Tunicell
+  - :mcc: 605
+    :mnc: 3
+    :name: Tunisiana
+Turkey:
+  :iso: TR
+  :cc: 90
+  :mccs:
+  - 286
+  :operators:
+  - :mcc: 286
+    :mnc: 1
+    :name: Turkcell
+  - :mcc: 286
+    :mnc: 2
+    :name: Vodafone
+  - :mcc: 286
+    :mnc: 3
+    :name: Avea
+  - :mcc: 286
+    :mnc: 4
+    :name: ''
+Turkmenistan:
+  :iso: TM
+  :cc: 993
+  :mccs:
+  - 438
+  :operators:
+  - :mcc: 438
+    :mnc: 1
+    :name: MTS (BARASH Communication)
+  - :mcc: 438
+    :mnc: 2
+    :name: TM-Cell
+Turks and Caicos Islands:
+  :iso: TC
+  :cc: 0
+  :mccs:
+  - 338
+  - 376
+  :operators:
+  - :mcc: 338
+    :mnc: 50
+    :name: Digicel
+  - :mcc: 376
+    :mnc: 350
+    :name: C&W
+  - :mcc: 376
+    :mnc: 352
+    :name: Islandcom
+Tuvalu:
+  :iso: TV
+  :cc: 688
+  :mccs:
+  - 553
+  :operators:
+  - :mcc: 553
+    :mnc: 1
+    :name: TTC
+Uganda:
+  :iso: UG
+  :cc: 256
+  :mccs:
+  - 641
+  :operators:
+  - :mcc: 641
+    :mnc: 1
+    :name: Airtel
+  - :mcc: 641
+    :mnc: 10
+    :name: MTN
+  - :mcc: 641
+    :mnc: 11
+    :name: UTL ( Telecom Limited)
+  - :mcc: 641
+    :mnc: 14
+    :name: Orange
+  - :mcc: 641
+    :mnc: 22
+    :name: Warid Telecom
+  - :mcc: 641
+    :mnc: 33
+    :name: Smile
+  - :mcc: 641
+    :mnc: 44
+    :name: K2
+  - :mcc: 641
+    :mnc: 66
+    :name: i-Tel
+Ukraine:
+  :iso: UA
+  :cc: 380
+  :mccs:
+  - 255
+  :operators:
+  - :mcc: 255
+    :mnc: 1
+    :name: MTS
+  - :mcc: 255
+    :mnc: 2
+    :name: Beeline
+  - :mcc: 255
+    :mnc: 3
+    :name: Kyivstar
+  - :mcc: 255
+    :mnc: 4
+    :name: IT
+  - :mcc: 255
+    :mnc: 5
+    :name: Golden Telecom
+  - :mcc: 255
+    :mnc: 6
+    :name: life:)
+  - :mcc: 255
+    :mnc: 7
+    :name: 3Mob
+  - :mcc: 255
+    :mnc: 21
+    :name: PEOPLEnet
+  - :mcc: 255
+    :mnc: 23
+    :name: CDMA Ukraine
+  - :mcc: 255
+    :mnc: 25
+    :name: NEWTONE
+United Arab Emirates:
+  :iso: AE
+  :cc: 971
+  :mccs:
+  - 424
+  :operators:
+  - :mcc: 424
+    :mnc: 2
+    :name: Etisalat
+  - :mcc: 424
+    :mnc: 3
+    :name: du
+United Kingdom:
+  :iso: GB
+  :cc: 44
+  :mccs:
+  - 234
+  - 235
+  :operators:
+  - :mcc: 234
+    :mnc: 0
+    :name: BT
+  - :mcc: 234
+    :mnc: 1
+    :name: Vectone Mobile
+  - :mcc: 234
+    :mnc: 2
+    :name: O2 (UK)
+  - :mcc: 234
+    :mnc: 3
+    :name: Airtel-Vodafone
+  - :mcc: 234
+    :mnc: 4
+    :name: FMS Solutions Ltd
+  - :mcc: 234
+    :mnc: 5
+    :name: ''
+  - :mcc: 234
+    :mnc: 6
+    :name: ''
+  - :mcc: 234
+    :mnc: 7
+    :name: ''
+  - :mcc: 234
+    :mnc: 8
+    :name: ''
+  - :mcc: 234
+    :mnc: 9
+    :name: ''
+  - :mcc: 234
+    :mnc: 10
+    :name: O2 (UK)
+  - :mcc: 234
+    :mnc: 11
+    :name: O2 (UK)
+  - :mcc: 234
+    :mnc: 12
+    :name: Railtrack
+  - :mcc: 234
+    :mnc: 13
+    :name: Railtrack
+  - :mcc: 234
+    :mnc: 14
+    :name: Hay Systems Ltd
+  - :mcc: 234
+    :mnc: 15
+    :name: Vodafone UK
+  - :mcc: 234
+    :mnc: 16
+    :name: Talk Talk
+  - :mcc: 234
+    :mnc: 17
+    :name: ''
+  - :mcc: 234
+    :mnc: 18
+    :name: Cloud9
+  - :mcc: 234
+    :mnc: 19
+    :name: Private Mobile Networks PMN
+  - :mcc: 234
+    :mnc: 20
+    :name: '3'
+  - :mcc: 234
+    :mnc: 22
+    :name: RoutoMessaging
+  - :mcc: 234
+    :mnc: 23
+    :name: ''
+  - :mcc: 234
+    :mnc: 24
+    :name: Greenfone
+  - :mcc: 234
+    :mnc: 25
+    :name: Truphone
+  - :mcc: 234
+    :mnc: 26
+    :name: Lycamobile
+  - :mcc: 234
+    :mnc: 27
+    :name: ''
+  - :mcc: 234
+    :mnc: 28
+    :name: Marathon Telecom Ltd
+  - :mcc: 234
+    :mnc: 29
+    :name: aql
+  - :mcc: 234
+    :mnc: 30
+    :name: T-Mobile UK
+  - :mcc: 234
+    :mnc: 31
+    :name: Virgin Mobile UK
+  - :mcc: 234
+    :mnc: 32
+    :name: Virgin Mobile UK
+  - :mcc: 234
+    :mnc: 33
+    :name: Orange (UK)
+  - :mcc: 234
+    :mnc: 34
+    :name: Orange (UK)
+  - :mcc: 234
+    :mnc: 35
+    :name: ''
+  - :mcc: 234
+    :mnc: 36
+    :name: ''
+  - :mcc: 234
+    :mnc: 37
+    :name: ''
+  - :mcc: 234
+    :mnc: 38
+    :name: Virgin Mobile UK
+  - :mcc: 234
+    :mnc: 39
+    :name: ''
+  - :mcc: 234
+    :mnc: 50
+    :name: JT
+  - :mcc: 234
+    :mnc: 51
+    :name: UK Broadband
+  - :mcc: 234
+    :mnc: 52
+    :name: ''
+  - :mcc: 234
+    :mnc: 53
+    :name: ''
+  - :mcc: 234
+    :mnc: 55
+    :name: ''
+  - :mcc: 234
+    :mnc: 58
+    :name: ''
+  - :mcc: 234
+    :mnc: 76
+    :name: BT
+  - :mcc: 234
+    :mnc: 78
+    :name: Airwave
+  - :mcc: 234
+    :mnc: 86
+    :name: ''
+  - :mcc: 235
+    :mnc: 0
+    :name: ''
+  - :mcc: 235
+    :mnc: 1
+    :name: ''
+  - :mcc: 235
+    :mnc: 2
+    :name: ''
+  - :mcc: 235
+    :mnc: 3
+    :name: UK Broadband
+  - :mcc: 235
+    :mnc: 77
+    :name: BT
+  - :mcc: 235
+    :mnc: 91
+    :name: ''
+  - :mcc: 235
+    :mnc: 92
+    :name: ''
+  - :mcc: 235
+    :mnc: 94
+    :name: ''
+  - :mcc: 235
+    :mnc: 95
+    :name: ''
+United States of America:
+  :iso: US
+  :cc: 1
+  :mccs:
+  - 310
+  - 311
+  - 312
+  - 313
+  - 316
+  :operators:
+  - :mcc: 310
+    :mnc: 4
+    :name: Verizon
+  - :mcc: 310
+    :mnc: 5
+    :name: Verizon
+  - :mcc: 310
+    :mnc: 10
+    :name: ''
+  - :mcc: 310
+    :mnc: 13
+    :name: MobileTel
+  - :mcc: 310
+    :mnc: 14
+    :name: ''
+  - :mcc: 310
+    :mnc: 16
+    :name: Cricket Communications
+  - :mcc: 310
+    :mnc: 17
+    :name: ''
+  - :mcc: 310
+    :mnc: 20
+    :name: ''
+  - :mcc: 310
+    :mnc: 26
+    :name: T-Mobile
+  - :mcc: 310
+    :mnc: 30
+    :name: AT&T
+  - :mcc: 310
+    :mnc: 34
+    :name: Airpeak
+  - :mcc: 310
+    :mnc: 40
+    :name: Concho
+  - :mcc: 310
+    :mnc: 46
+    :name: SIMMETRY
+  - :mcc: 310
+    :mnc: 53
+    :name: ''
+  - :mcc: 310
+    :mnc: 54
+    :name: ''
+  - :mcc: 310
+    :mnc: 60
+    :name: ''
+  - :mcc: 310
+    :mnc: 66
+    :name: ''
+  - :mcc: 310
+    :mnc: 70
+    :name: ''
+  - :mcc: 310
+    :mnc: 80
+    :name: Corr
+  - :mcc: 310
+    :mnc: 90
+    :name: Cricket Communications
+  - :mcc: 310
+    :mnc: 100
+    :name: Plateau Wireless
+  - :mcc: 310
+    :mnc: 110
+    :name: PTI Pacifica
+  - :mcc: 310
+    :mnc: 120
+    :name: Sprint
+  - :mcc: 310
+    :mnc: 150
+    :name: AT&T
+  - :mcc: 310
+    :mnc: 160
+    :name: ''
+  - :mcc: 310
+    :mnc: 170
+    :name: AT&T
+  - :mcc: 310
+    :mnc: 180
+    :name: West Central
+  - :mcc: 310
+    :mnc: 190
+    :name: Dutch Harbor
+  - :mcc: 310
+    :mnc: 200
+    :name: ''
+  - :mcc: 310
+    :mnc: 210
+    :name: ''
+  - :mcc: 310
+    :mnc: 220
+    :name: ''
+  - :mcc: 310
+    :mnc: 230
+    :name: ''
+  - :mcc: 310
+    :mnc: 240
+    :name: ''
+  - :mcc: 310
+    :mnc: 250
+    :name: ''
+  - :mcc: 310
+    :mnc: 260
+    :name: ''
+  - :mcc: 310
+    :mnc: 270
+    :name: ''
+  - :mcc: 310
+    :mnc: 280
+    :name: AT&T
+  - :mcc: 310
+    :mnc: 290
+    :name: ''
+  - :mcc: 310
+    :mnc: 300
+    :name: Big Sky Mobile
+  - :mcc: 310
+    :mnc: 310
+    :name: ''
+  - :mcc: 310
+    :mnc: 311
+    :name: ''
+  - :mcc: 310
+    :mnc: 320
+    :name: Cellular One
+  - :mcc: 310
+    :mnc: 330
+    :name: T-Mobile
+  - :mcc: 310
+    :mnc: 340
+    :name: Westlink
+  - :mcc: 310
+    :mnc: 350
+    :name: ''
+  - :mcc: 310
+    :mnc: 380
+    :name: AT&T
+  - :mcc: 310
+    :mnc: 390
+    :name: Cellular One of East Texas
+  - :mcc: 310
+    :mnc: 400
+    :name: i CAN_GSM
+  - :mcc: 310
+    :mnc: 410
+    :name: AT&T
+  - :mcc: 310
+    :mnc: 420
+    :name: Cincinnati Bell
+  - :mcc: 310
+    :mnc: 430
+    :name: ''
+  - :mcc: 310
+    :mnc: 440
+    :name: Cellular One
+  - :mcc: 310
+    :mnc: 450
+    :name: Viaero
+  - :mcc: 310
+    :mnc: 460
+    :name: Simmetry
+  - :mcc: 310
+    :mnc: 470
+    :name: nTelos
+  - :mcc: 310
+    :mnc: 480
+    :name: ''
+  - :mcc: 310
+    :mnc: 490
+    :name: T-Mobile
+  - :mcc: 310
+    :mnc: 500
+    :name: Alltel
+  - :mcc: 310
+    :mnc: 510
+    :name: Airtel
+  - :mcc: 310
+    :mnc: 520
+    :name: VeriSign
+  - :mcc: 310
+    :mnc: 530
+    :name: ''
+  - :mcc: 310
+    :mnc: 540
+    :name: Oklahoma Western
+  - :mcc: 310
+    :mnc: 560
+    :name: AT&T
+  - :mcc: 310
+    :mnc: 570
+    :name: Cellular One
+  - :mcc: 310
+    :mnc: 580
+    :name: T-Mobile
+  - :mcc: 310
+    :mnc: 590
+    :name: Alltel
+  - :mcc: 310
+    :mnc: 610
+    :name: Epic Touch
+  - :mcc: 310
+    :mnc: 620
+    :name: Coleman County Telecom
+  - :mcc: 310
+    :mnc: 630
+    :name: AmeriLink PCS
+  - :mcc: 310
+    :mnc: 640
+    :name: Airadigm
+  - :mcc: 310
+    :mnc: 650
+    :name: Jasper
+  - :mcc: 310
+    :mnc: 660
+    :name: T-Mobile
+  - :mcc: 310
+    :mnc: 670
+    :name: Northstar
+  - :mcc: 310
+    :mnc: 680
+    :name: AT&T
+  - :mcc: 310
+    :mnc: 690
+    :name: Immix
+  - :mcc: 310
+    :mnc: 730
+    :name: SeaMobile
+  - :mcc: 310
+    :mnc: 740
+    :name: Convey
+  - :mcc: 310
+    :mnc: 750
+    :name: Appalachian Wireless
+  - :mcc: 310
+    :mnc: 760
+    :name: Panhandle
+  - :mcc: 310
+    :mnc: 770
+    :name: i wireless
+  - :mcc: 310
+    :mnc: 780
+    :name: ''
+  - :mcc: 310
+    :mnc: 790
+    :name: PinPoint
+  - :mcc: 310
+    :mnc: 800
+    :name: ''
+  - :mcc: 310
+    :mnc: 830
+    :name: Caprock
+  - :mcc: 310
+    :mnc: 840
+    :name: telna Mobile
+  - :mcc: 310
+    :mnc: 850
+    :name: Aeris
+  - :mcc: 310
+    :mnc: 870
+    :name: PACE
+  - :mcc: 310
+    :mnc: 880
+    :name: Advantage
+  - :mcc: 310
+    :mnc: 890
+    :name: Unicel
+  - :mcc: 310
+    :mnc: 900
+    :name: Mid-Rivers Wireless
+  - :mcc: 310
+    :mnc: 910
+    :name: First Cellular
+  - :mcc: 310
+    :mnc: 940
+    :name: ''
+  - :mcc: 310
+    :mnc: 950
+    :name: XIT Wireless
+  - :mcc: 310
+    :mnc: 960
+    :name: Plateau Wireless
+  - :mcc: 310
+    :mnc: 970
+    :name: Globalstar
+  - :mcc: 310
+    :mnc: 980
+    :name: AT&T
+  - :mcc: 310
+    :mnc: 990
+    :name: AT&T
+  - :mcc: 311
+    :mnc: 0
+    :name: ''
+  - :mcc: 311
+    :mnc: 10
+    :name: Chariton Valley
+  - :mcc: 311
+    :mnc: 12
+    :name: Verizon
+  - :mcc: 311
+    :mnc: 20
+    :name: ''
+  - :mcc: 311
+    :mnc: 30
+    :name: ''
+  - :mcc: 311
+    :mnc: 40
+    :name: ''
+  - :mcc: 311
+    :mnc: 50
+    :name: ''
+  - :mcc: 311
+    :mnc: 60
+    :name: Farmers Cellular
+  - :mcc: 311
+    :mnc: 70
+    :name: Easterbrooke
+  - :mcc: 311
+    :mnc: 80
+    :name: Pine Cellular
+  - :mcc: 311
+    :mnc: 90
+    :name: Long Lines Wireless
+  - :mcc: 311
+    :mnc: 100
+    :name: ''
+  - :mcc: 311
+    :mnc: 110
+    :name: ''
+  - :mcc: 311
+    :mnc: 120
+    :name: ''
+  - :mcc: 311
+    :mnc: 130
+    :name: ''
+  - :mcc: 311
+    :mnc: 140
+    :name: Sprocket
+  - :mcc: 311
+    :mnc: 150
+    :name: ''
+  - :mcc: 311
+    :mnc: 160
+    :name: ''
+  - :mcc: 311
+    :mnc: 170
+    :name: PetroCom
+  - :mcc: 311
+    :mnc: 180
+    :name: ''
+  - :mcc: 311
+    :mnc: 190
+    :name: ''
+  - :mcc: 311
+    :mnc: 210
+    :name: ''
+  - :mcc: 311
+    :mnc: 220
+    :name: ''
+  - :mcc: 311
+    :mnc: 230
+    :name: ''
+  - :mcc: 311
+    :mnc: 330
+    :name: Bug Tussel Wireless
+  - :mcc: 311
+    :mnc: 480
+    :name: Verizon
+  - :mcc: 311
+    :mnc: 481
+    :name: Verizon
+  - :mcc: 311
+    :mnc: 490
+    :name: Sprint Corporation
+  - :mcc: 311
+    :mnc: 580
+    :name: ''
+  - :mcc: 311
+    :mnc: 660
+    :name: metroPCS
+  - :mcc: 311
+    :mnc: 870
+    :name: Boost
+  - :mcc: 311
+    :mnc: 960
+    :name: Lycamobile
+  - :mcc: 311
+    :mnc: 970
+    :name: Big River Broadband
+  - :mcc: 312
+    :mnc: 590
+    :name: NMU
+  - :mcc: 313
+    :mnc: 100
+    :name: 700 MHz Public Safety Broadband
+  - :mcc: 313
+    :mnc: 101
+    :name: 700 MHz Public Safety Broadband
+  - :mcc: 316
+    :mnc: 10
+    :name: Nextel
+  - :mcc: 316
+    :mnc: 11
+    :name: ''
+Uruguay:
+  :iso: UY
+  :cc: 598
+  :mccs:
+  - 748
+  :operators:
+  - :mcc: 748
+    :mnc: 1
+    :name: Antel
+  - :mcc: 748
+    :mnc: 7
+    :name: Movistar
+  - :mcc: 748
+    :mnc: 10
+    :name: Claro
+Uzbekistan:
+  :iso: UZ
+  :cc: 998
+  :mccs:
+  - 434
+  :operators:
+  - :mcc: 434
+    :mnc: 1
+    :name: ''
+  - :mcc: 434
+    :mnc: 2
+    :name: ''
+  - :mcc: 434
+    :mnc: 4
+    :name: Beeline
+  - :mcc: 434
+    :mnc: 5
+    :name: Ucell
+  - :mcc: 434
+    :mnc: 6
+    :name: Perfectum Mobile
+  - :mcc: 434
+    :mnc: 7
+    :name: MTS
+  - :mcc: 434
+    :mnc: 3
+    :name: UzMobile
+Vanuatu:
+  :iso: VU
+  :cc: 678
+  :mccs:
+  - 541
+  :operators:
+  - :mcc: 541
+    :mnc: 0
+    :name: AIL
+  - :mcc: 541
+    :mnc: 1
+    :name: SMILE
+  - :mcc: 541
+    :mnc: 5
+    :name: Digicel
+  - :mcc: 541
+    :mnc: 7
+    :name: WanTok
+Vatican:
+  :iso: VA
+  :cc: 39
+  :mccs:
+  - 225
+  :operators:
+  - :mcc: 225
+    :mnc: 0
+    :name: ''
+Venezuela:
+  :iso: VE
+  :cc: 58
+  :mccs:
+  - 734
+  :operators:
+  - :mcc: 734
+    :mnc: 1
+    :name: Digitel
+  - :mcc: 734
+    :mnc: 2
+    :name: Digitel GSM
+  - :mcc: 734
+    :mnc: 3
+    :name: Digitel
+  - :mcc: 734
+    :mnc: 4
+    :name: movistar
+  - :mcc: 734
+    :mnc: 6
+    :name: Movilnet
+Vietnam:
+  :iso: VN
+  :cc: 84
+  :mccs:
+  - 452
+  :operators:
+  - :mcc: 452
+    :mnc: 1
+    :name: MobiFone
+  - :mcc: 452
+    :mnc: 2
+    :name: Vinaphone
+  - :mcc: 452
+    :mnc: 3
+    :name: S-Fone
+  - :mcc: 452
+    :mnc: 4
+    :name: Viettel Mobile
+  - :mcc: 452
+    :mnc: 5
+    :name: Vietnamobile (HT Mobile )
+  - :mcc: 452
+    :mnc: 6
+    :name: EVNTelecom
+  - :mcc: 452
+    :mnc: 7
+    :name: G-Mobile
+  - :mcc: 452
+    :mnc: 8
+    :name: 3G EVNTelecom
+Yemen:
+  :iso: YE
+  :cc: 967
+  :mccs:
+  - 421
+  :operators:
+  - :mcc: 421
+    :mnc: 1
+    :name: SabaFon
+  - :mcc: 421
+    :mnc: 2
+    :name: MTN
+  - :mcc: 421
+    :mnc: 3
+    :name: Yemen Mobile
+  - :mcc: 421
+    :mnc: 4
+    :name: HiTS-UNITEL
+Zambia:
+  :iso: ZM
+  :cc: 260
+  :mccs:
+  - 645
+  :operators:
+  - :mcc: 645
+    :mnc: 1
+    :name: Airtel
+  - :mcc: 645
+    :mnc: 2
+    :name: MTN
+  - :mcc: 645
+    :mnc: 3
+    :name: ZAMTEL
+Zimbabwe:
+  :iso: ZW
+  :cc: 263
+  :mccs:
+  - 648
+  :operators:
+  - :mcc: 648
+    :mnc: 1
+    :name: Net*One
+  - :mcc: 648
+    :mnc: 3
+    :name: Telecel
+  - :mcc: 648
+    :mnc: 4
+    :name: Econet
+Unknown 233:
+  :iso:
+  :cc:
+  :mccs:
+  - 901
+  :operators:
+  - :mcc: 901
+    :mnc: 1
+    :name: ICO
+  - :mcc: 901
+    :mnc: 2
+    :name: ''
+  - :mcc: 901
+    :mnc: 3
+    :name: Iridium
+  - :mcc: 901
+    :mnc: 4
+    :name: ''
+  - :mcc: 901
+    :mnc: 5
+    :name: ''
+  - :mcc: 901
+    :mnc: 6
+    :name: ''
+  - :mcc: 901
+    :mnc: 7
+    :name: ''
+  - :mcc: 901
+    :mnc: 8
+    :name: ''
+  - :mcc: 901
+    :mnc: 9
+    :name: ''
+  - :mcc: 901
+    :mnc: 10
+    :name: ACeS
+  - :mcc: 901
+    :mnc: 11
+    :name: Inmarsat
+  - :mcc: 901
+    :mnc: 12
+    :name: Telenor
+  - :mcc: 901
+    :mnc: 13
+    :name: GSM.AQ
+  - :mcc: 901
+    :mnc: 14
+    :name: ''
+  - :mcc: 901
+    :mnc: 15
+    :name: OnAir
+  - :mcc: 901
+    :mnc: 16
+    :name: ''
+  - :mcc: 901
+    :mnc: 17
+    :name: Navitas
+  - :mcc: 901
+    :mnc: 18
+    :name: Cellular @Sea
+  - :mcc: 901
+    :mnc: 19
+    :name: ''
+  - :mcc: 901
+    :mnc: 20
+    :name: ''
+  - :mcc: 901
+    :mnc: 21
+    :name: ''
+  - :mcc: 901
+    :mnc: 22
+    :name: ''
+  - :mcc: 901
+    :mnc: 23
+    :name: ''
+  - :mcc: 901
+    :mnc: 24
+    :name: iNum
+  - :mcc: 901
+    :mnc: 25
+    :name: ''
+  - :mcc: 901
+    :mnc: 26
+    :name: TIM
+  - :mcc: 901
+    :mnc: 27
+    :name: OnAir
+  - :mcc: 901
+    :mnc: 28
+    :name: Vodafone
+  - :mcc: 901
+    :mnc: 29
+    :name: Telenor
+  - :mcc: 901
+    :mnc: 30
+    :name: ''
+  - :mcc: 901
+    :mnc: 31
+    :name: Orange
+  - :mcc: 901
+    :mnc: 32
+    :name: Sky High
+  - :mcc: 901
+    :mnc: 33
+    :name: ''
+  - :mcc: 901
+    :mnc: 34
+    :name: ''
+  - :mcc: 901
+    :mnc: 35
+    :name: ''
+  - :mcc: 901
+    :mnc: 36
+    :name: ''
+  - :mcc: 901
+    :mnc: 39
+    :name: ''
+  - :mcc: 901
+    :mnc: 88
+    :name: ''

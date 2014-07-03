@@ -5,12 +5,12 @@ require 'mcc_mnc/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "mcc_mnc"
-  spec.version       = MccMnc::VERSION
+  spec.version       = MCC_MNC::VERSION
   spec.authors       = ["Maciek Dubiński"]
   spec.email         = ["maciek@dubinski.net"]
   spec.summary       = %q{Mobile Country Code / Mobile Network Code lookup tool}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.description   = %q{Mobile Country Code / Mobile Network Code lookup tool}
+  spec.homepage      = "https://github.com/irvingwashington/mcc_mnc"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

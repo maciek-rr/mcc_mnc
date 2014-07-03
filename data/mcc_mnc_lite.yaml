@@ -1,0 +1,1182 @@
+---
+Abkhazia:
+  :iso: GE
+  :cc: 995
+  :mccs:
+  - 289
+Afghanistan:
+  :iso: AF
+  :cc: 93
+  :mccs:
+  - 412
+Albania:
+  :iso: AL
+  :cc: 355
+  :mccs:
+  - 276
+Algeria:
+  :iso: DZ
+  :cc: 213
+  :mccs:
+  - 603
+American Samoa (United States of America):
+  :iso: AS
+  :cc: 0
+  :mccs:
+  - 544
+Andorra:
+  :iso: AD
+  :cc: 376
+  :mccs:
+  - 213
+Angola:
+  :iso: AO
+  :cc: 244
+  :mccs:
+  - 631
+Anguilla (United Kingdom):
+  :iso: AI
+  :cc: 0
+  :mccs:
+  - 365
+Antigua and Barbuda:
+  :iso: AG
+  :cc: 0
+  :mccs:
+  - 344
+Argentina:
+  :iso: AR
+  :cc: 54
+  :mccs:
+  - 722
+Armenia:
+  :iso: AM
+  :cc: 374
+  :mccs:
+  - 283
+Aruba (Kingdom of the Netherlands):
+  :iso: AW
+  :cc: 297
+  :mccs:
+  - 363
+Australia:
+  :iso: AU
+  :cc: 61
+  :mccs:
+  - 505
+Austria:
+  :iso: AT[15]
+  :cc: 0
+  :mccs:
+  - 232
+Azerbaijan:
+  :iso: AZ
+  :cc: 994
+  :mccs:
+  - 400
+Bahamas:
+  :iso: BS
+  :cc: 0
+  :mccs:
+  - 364
+Bahrain:
+  :iso: BH
+  :cc: 973
+  :mccs:
+  - 426
+Bangladesh:
+  :iso: BD
+  :cc: 880
+  :mccs:
+  - 470
+Barbados:
+  :iso: BB
+  :cc: 0
+  :mccs:
+  - 342
+Belarus:
+  :iso: BY
+  :cc: 375
+  :mccs:
+  - 257
+Belgium:
+  :iso: BE
+  :cc: 32
+  :mccs:
+  - 206
+Belize:
+  :iso: BZ
+  :cc: 501
+  :mccs:
+  - 702
+Benin:
+  :iso: BJ
+  :cc: 229
+  :mccs:
+  - 616
+Bermuda:
+  :iso: BM
+  :cc: 0
+  :mccs:
+  - 310
+  - 338
+  - 350
+Bhutan:
+  :iso: BT
+  :cc: 975
+  :mccs:
+  - 402
+Bolivia:
+  :iso: BO
+  :cc: 591
+  :mccs:
+  - 736
+Bosnia and Herzegovina:
+  :iso: BA
+  :cc: 387
+  :mccs:
+  - 218
+Botswana:
+  :iso: BW
+  :cc: 267
+  :mccs:
+  - 652
+Brazil:
+  :iso: BR
+  :cc: 55
+  :mccs:
+  - 724
+British Virgin Islands (United Kingdom):
+  :iso: VG
+  :cc: 0
+  :mccs:
+  - 348
+Brunei:
+  :iso: BN
+  :cc: 673
+  :mccs:
+  - 528
+Bulgaria:
+  :iso: BG
+  :cc: 359
+  :mccs:
+  - 284
+Burkina Faso:
+  :iso: BF
+  :cc: 226
+  :mccs:
+  - 613
+Burundi:
+  :iso: BI
+  :cc: 257
+  :mccs:
+  - 642
+Cambodia:
+  :iso: KH
+  :cc: 855
+  :mccs:
+  - 456
+Cameroon:
+  :iso: CM
+  :cc: 237
+  :mccs:
+  - 624
+Canada:
+  :iso: CA
+  :cc: 1
+  :mccs:
+  - 302
+Cape Verde:
+  :iso: CV
+  :cc: 238
+  :mccs:
+  - 625
+Cayman Islands (United Kingdom):
+  :iso: KY
+  :cc: 0
+  :mccs:
+  - 346
+Central African Republic:
+  :iso: CF
+  :cc: 236
+  :mccs:
+  - 623
+Chad:
+  :iso: TD
+  :cc: 235
+  :mccs:
+  - 622
+Chile:
+  :iso: CL
+  :cc: 56
+  :mccs:
+  - 730
+China:
+  :iso: CN
+  :cc: 86
+  :mccs:
+  - 460
+Christmas Island (Australia):
+  :iso: CX
+  :cc: 61
+  :mccs:
+  - 0
+Cocos Islands (Australia):
+  :iso: CC
+  :cc: 61
+  :mccs:
+  - 0
+Colombia:
+  :iso: CO
+  :cc: 57
+  :mccs:
+  - 732
+Comoros:
+  :iso: KM
+  :cc: 269
+  :mccs:
+  - 654
+Republic of the Congo:
+  :iso: CG
+  :cc: 242
+  :mccs:
+  - 629
+Cook Islands (New Zealand):
+  :iso: CK
+  :cc: 682
+  :mccs:
+  - 548
+Costa Rica:
+  :iso: CR
+  :cc: 506
+  :mccs:
+  - 712
+Croatia:
+  :iso: HR
+  :cc: 385
+  :mccs:
+  - 219
+Cuba:
+  :iso: CU
+  :cc: 53
+  :mccs:
+  - 368
+Cyprus:
+  :iso: CY
+  :cc: 357
+  :mccs:
+  - 280
+Czech Republic:
+  :iso: CZ[46]
+  :cc: 0
+  :mccs:
+  - 230
+Democratic Republic of the Congo:
+  :iso: CD
+  :cc: 243
+  :mccs:
+  - 630
+Denmark (Kingdom of Denmark):
+  :iso: DK
+  :cc: 45
+  :mccs:
+  - 238
+Djibouti:
+  :iso: DJ
+  :cc: 253
+  :mccs:
+  - 638
+Dominica:
+  :iso: DM
+  :cc: 0
+  :mccs:
+  - 366
+Dominican Republic:
+  :iso: DO
+  :cc: 0
+  :mccs:
+  - 370
+East Timor:
+  :iso: TL
+  :cc: 670
+  :mccs:
+  - 514
+Ecuador:
+  :iso: EC
+  :cc: 593
+  :mccs:
+  - 740
+Egypt:
+  :iso: EG
+  :cc: 20
+  :mccs:
+  - 602
+El Salvador:
+  :iso: SV
+  :cc: 503
+  :mccs:
+  - 706
+Equatorial Guinea:
+  :iso: GQ
+  :cc: 240
+  :mccs:
+  - 627
+Eritrea:
+  :iso: ER
+  :cc: 291
+  :mccs:
+  - 657
+Estonia:
+  :iso: EE
+  :cc: 372
+  :mccs:
+  - 248
+Ethiopia:
+  :iso: ET
+  :cc: 251
+  :mccs:
+  - 636
+Faroe Islands (Kingdom of Denmark):
+  :iso: FO
+  :cc: 298
+  :mccs:
+  - 288
+Fiji:
+  :iso: FJ
+  :cc: 679
+  :mccs:
+  - 542
+Finland:
+  :iso: FI
+  :cc: 358
+  :mccs:
+  - 244
+France:
+  :iso: FR
+  :cc: 33
+  :mccs:
+  - 208
+French Guiana (France):
+  :iso: GF
+  :cc: 0
+  :mccs:
+  - 0
+French Polynesia (France):
+  :iso: PF
+  :cc: 689
+  :mccs:
+  - 547
+French Southern Territories (France):
+  :iso: TF
+  :cc: 0
+  :mccs:
+  - 0
+Gabon:
+  :iso: GA
+  :cc: 241
+  :mccs:
+  - 628
+Gambia:
+  :iso: GM
+  :cc: 220
+  :mccs:
+  - 607
+Georgia:
+  :iso: GE
+  :cc: 995
+  :mccs:
+  - 282
+Germany:
+  :iso: DE
+  :cc: 49
+  :mccs:
+  - 262
+Ghana:
+  :iso: GH
+  :cc: 233
+  :mccs:
+  - 620
+Gibraltar (United Kingdom):
+  :iso: GI
+  :cc: 350
+  :mccs:
+  - 266
+Greece:
+  :iso: GR
+  :cc: 30
+  :mccs:
+  - 202
+Greenland (Kingdom of Denmark):
+  :iso: GL
+  :cc: 299
+  :mccs:
+  - 290
+Grenada:
+  :iso: GD
+  :cc: 0
+  :mccs:
+  - 352
+Guadeloupe (France):
+  :iso: GP
+  :cc: 0
+  :mccs:
+  - 340
+Guam (United States of America):
+  :iso: GU
+  :cc: 0
+  :mccs:
+  - 310
+  - 311
+Guatemala:
+  :iso: GT
+  :cc: 502
+  :mccs:
+  - 704
+Guernsey (United Kingdom):
+  :iso: GG
+  :cc: 0
+  :mccs:
+  - 234
+Guinea:
+  :iso: GN
+  :cc: 224
+  :mccs:
+  - 611
+Guinea-Bissau:
+  :iso: GW
+  :cc: 245
+  :mccs:
+  - 632
+Guyana:
+  :iso: GY
+  :cc: 592
+  :mccs:
+  - 738
+Haiti:
+  :iso: HT
+  :cc: 509
+  :mccs:
+  - 372
+Honduras:
+  :iso: HN
+  :cc: 504
+  :mccs:
+  - 708
+Hong Kong:
+  :iso: HK
+  :cc: 852
+  :mccs:
+  - 454
+Hungary:
+  :iso: HU
+  :cc: 36
+  :mccs:
+  - 216
+Iceland:
+  :iso: IS
+  :cc: 0
+  :mccs:
+  - 274
+India:
+  :iso: IN
+  :cc: 91
+  :mccs:
+  - 404
+  - 405
+Indonesia:
+  :iso: ID
+  :cc: 62
+  :mccs:
+  - 510
+Iran:
+  :iso: IR
+  :cc: 98
+  :mccs:
+  - 432
+Iraq:
+  :iso: IQ
+  :cc: 964
+  :mccs:
+  - 418
+Ireland:
+  :iso: IE
+  :cc: 353
+  :mccs:
+  - 272
+Isle of Man (United Kingdom):
+  :iso: IM
+  :cc: 44
+  :mccs:
+  - 234
+Israel:
+  :iso: IL
+  :cc: 972
+  :mccs:
+  - 425
+Italy:
+  :iso: IT
+  :cc: 39
+  :mccs:
+  - 222
+Ivory Coast:
+  :iso: CI
+  :cc: 225
+  :mccs:
+  - 612
+Jamaica:
+  :iso: JM
+  :cc: 0
+  :mccs:
+  - 338
+Japan:
+  :iso: JP
+  :cc: 81
+  :mccs:
+  - 440
+Jersey (United Kingdom):
+  :iso: JE
+  :cc: 0
+  :mccs:
+  - 234
+Jordan:
+  :iso: JO
+  :cc: 962
+  :mccs:
+  - 416
+Kazakhstan:
+  :iso: KZ
+  :cc: 7
+  :mccs:
+  - 401
+Kenya:
+  :iso: KE
+  :cc: 254
+  :mccs:
+  - 639
+Kiribati:
+  :iso: KI
+  :cc: 686
+  :mccs:
+  - 545
+North Korea:
+  :iso: KP
+  :cc: 850
+  :mccs:
+  - 467
+South Korea:
+  :iso: KR
+  :cc: 82
+  :mccs:
+  - 450
+Kosovo:
+  :iso: XK
+  :cc: 0
+  :mccs:
+  - 212
+  - 293
+Kuwait:
+  :iso: KW
+  :cc: 965
+  :mccs:
+  - 419
+Kyrgyzstan:
+  :iso: KG
+  :cc: 996
+  :mccs:
+  - 437
+Laos:
+  :iso: LA
+  :cc: 856
+  :mccs:
+  - 457
+Latvia:
+  :iso: LV
+  :cc: 371
+  :mccs:
+  - 247
+Lebanon:
+  :iso: LB
+  :cc: 961
+  :mccs:
+  - 415
+Lesotho:
+  :iso: LS
+  :cc: 266
+  :mccs:
+  - 651
+Liberia:
+  :iso: LR
+  :cc: 231
+  :mccs:
+  - 618
+Libya:
+  :iso: LY
+  :cc: 218
+  :mccs:
+  - 606
+Liechtenstein:
+  :iso: LI
+  :cc: 423
+  :mccs:
+  - 295
+Lithuania:
+  :iso: LT
+  :cc: 370
+  :mccs:
+  - 246
+Luxembourg:
+  :iso: LU
+  :cc: 352
+  :mccs:
+  - 270
+Macau (People's Republic of China):
+  :iso: MO
+  :cc: 853
+  :mccs:
+  - 455
+Macedonia:
+  :iso: MK
+  :cc: 389
+  :mccs:
+  - 294
+Madagascar:
+  :iso: MG
+  :cc: 261
+  :mccs:
+  - 646
+Malawi:
+  :iso: MW
+  :cc: 265
+  :mccs:
+  - 650
+Malaysia:
+  :iso: MY
+  :cc: 60
+  :mccs:
+  - 502
+Maldives:
+  :iso: MV
+  :cc: 960
+  :mccs:
+  - 472
+Mali:
+  :iso: ML
+  :cc: 223
+  :mccs:
+  - 610
+Malta:
+  :iso: MT
+  :cc: 356
+  :mccs:
+  - 278
+Marshall Islands:
+  :iso: MH
+  :cc: 692
+  :mccs:
+  - 551
+Martinique (France):
+  :iso: MQ
+  :cc: 0
+  :mccs:
+  - 340
+Mauritania:
+  :iso: MR
+  :cc: 222
+  :mccs:
+  - 609
+Mauritius:
+  :iso: MU
+  :cc: 230
+  :mccs:
+  - 617
+Mayotte (France):
+  :iso: YT
+  :cc: 262
+  :mccs:
+  - 0
+Mexico:
+  :iso: MX
+  :cc: 52
+  :mccs:
+  - 334
+Federated States of Micronesia:
+  :iso: FM
+  :cc: 691
+  :mccs:
+  - 550
+Moldova:
+  :iso: MD
+  :cc: 373
+  :mccs:
+  - 259
+Monaco:
+  :iso: MC
+  :cc: 377
+  :mccs:
+  - 212
+Mongolia:
+  :iso: MN
+  :cc: 976
+  :mccs:
+  - 428
+Montenegro:
+  :iso: ME
+  :cc: 382
+  :mccs:
+  - 297
+Montserrat (United Kingdom):
+  :iso: MS
+  :cc: 0
+  :mccs:
+  - 354
+Morocco:
+  :iso: MA
+  :cc: 212
+  :mccs:
+  - 604
+Mozambique:
+  :iso: MZ
+  :cc: 258
+  :mccs:
+  - 643
+Myanmar:
+  :iso: MM
+  :cc: 95
+  :mccs:
+  - 414
+Namibia:
+  :iso: NA
+  :cc: 264
+  :mccs:
+  - 649
+Nauru:
+  :iso: NR
+  :cc: 674
+  :mccs:
+  - 536
+Nepal:
+  :iso: NP
+  :cc: 977
+  :mccs:
+  - 429
+Netherlands (Kingdom of the Netherlands):
+  :iso: NL
+  :cc: 31
+  :mccs:
+  - 204
+Former Netherlands Antilles (Kingdom of the Netherlands):
+  :iso: AN
+  :cc: 0
+  :mccs:
+  - 362
+New Caledonia (France):
+  :iso: NC
+  :cc: 687
+  :mccs:
+  - 546
+New Zealand:
+  :iso: NZ
+  :cc: 64
+  :mccs:
+  - 530
+Nicaragua:
+  :iso: NI
+  :cc: 505
+  :mccs:
+  - 710
+Niger:
+  :iso: NE
+  :cc: 227
+  :mccs:
+  - 614
+Nigeria:
+  :iso: NG
+  :cc: 234
+  :mccs:
+  - 621
+Niue:
+  :iso: NU
+  :cc: 683
+  :mccs:
+  - 555
+Norfolk Island:
+  :iso: NF
+  :cc: 0
+  :mccs:
+  - 505
+Northern Mariana Islands:
+  :iso: MP
+  :cc: 0
+  :mccs:
+  - 0
+Norway:
+  :iso: 'NO'
+  :cc: 47
+  :mccs:
+  - 242
+Oman:
+  :iso: OM
+  :cc: 968
+  :mccs:
+  - 422
+Pakistan:
+  :iso: PK
+  :cc: 92
+  :mccs:
+  - 410
+Palau:
+  :iso: PW
+  :cc: 680
+  :mccs:
+  - 552
+Palestine, State of:
+  :iso: PS
+  :cc: 0
+  :mccs:
+  - 425
+Panama:
+  :iso: PA
+  :cc: 507
+  :mccs:
+  - 714
+Papua New Guinea:
+  :iso: PG
+  :cc: 675
+  :mccs:
+  - 537
+Paraguay:
+  :iso: PY
+  :cc: 595
+  :mccs:
+  - 744
+Peru:
+  :iso: PE
+  :cc: 51
+  :mccs:
+  - 716
+Philippines:
+  :iso: PH
+  :cc: 63
+  :mccs:
+  - 515
+Pitcairn Islands (United Kingdom):
+  :iso: PN
+  :cc: 870
+  :mccs:
+  - 0
+Poland:
+  :iso: PL
+  :cc: 48
+  :mccs:
+  - 260
+Portugal:
+  :iso: PT
+  :cc: 351
+  :mccs:
+  - 268
+Puerto Rico:
+  :iso: PR
+  :cc: 1
+  :mccs:
+  - 330
+Qatar:
+  :iso: QA
+  :cc: 974
+  :mccs:
+  - 427
+Réunion (France):
+  :iso: RE
+  :cc: 0
+  :mccs:
+  - 647
+Romania:
+  :iso: RO
+  :cc: 40
+  :mccs:
+  - 226
+Russian Federation:
+  :iso: RU
+  :cc: 7
+  :mccs:
+  - 250
+Rwanda:
+  :iso: RW
+  :cc: 250
+  :mccs:
+  - 635
+Saint Kitts and Nevis:
+  :iso: KN
+  :cc: 0
+  :mccs:
+  - 356
+Saint Lucia:
+  :iso: LC
+  :cc: 0
+  :mccs:
+  - 358
+Saint Pierre and Miquelon (France):
+  :iso: PM
+  :cc: 508
+  :mccs:
+  - 308
+Saint Vincent and the Grenadines:
+  :iso: VC
+  :cc: 0
+  :mccs:
+  - 360
+Samoa:
+  :iso: WS
+  :cc: 685
+  :mccs:
+  - 549
+San Marino:
+  :iso: SM
+  :cc: 378
+  :mccs:
+  - 292
+Sao Tome and Principe:
+  :iso: ST
+  :cc: 239
+  :mccs:
+  - 626
+Saudi Arabia:
+  :iso: SA
+  :cc: 966
+  :mccs:
+  - 420
+Senegal:
+  :iso: SN
+  :cc: 221
+  :mccs:
+  - 608
+Serbia:
+  :iso: RS
+  :cc: 381
+  :mccs:
+  - 220
+Seychelles:
+  :iso: SC
+  :cc: 248
+  :mccs:
+  - 633
+Sierra Leone:
+  :iso: SL
+  :cc: 232
+  :mccs:
+  - 619
+Singapore:
+  :iso: SG
+  :cc: 65
+  :mccs:
+  - 525
+Slovakia:
+  :iso: SK
+  :cc: 421
+  :mccs:
+  - 231
+Slovenia:
+  :iso: SI
+  :cc: 386
+  :mccs:
+  - 293
+Solomon Islands:
+  :iso: SB
+  :cc: 677
+  :mccs:
+  - 540
+Somalia:
+  :iso: SO
+  :cc: 252
+  :mccs:
+  - 637
+South Africa:
+  :iso: ZA
+  :cc: 27
+  :mccs:
+  - 655
+South Sudan:
+  :iso: SS[113]
+  :cc: 0
+  :mccs:
+  - 659
+Spain:
+  :iso: ES
+  :cc: 34
+  :mccs:
+  - 214
+Sri Lanka:
+  :iso: LK
+  :cc: 94
+  :mccs:
+  - 413
+Sudan:
+  :iso: SD
+  :cc: 249
+  :mccs:
+  - 634
+Suriname:
+  :iso: SR
+  :cc: 597
+  :mccs:
+  - 746
+Swaziland:
+  :iso: SZ
+  :cc: 268
+  :mccs:
+  - 653
+Sweden:
+  :iso: SE
+  :cc: 46
+  :mccs:
+  - 240
+Switzerland:
+  :iso: CH
+  :cc: 41
+  :mccs:
+  - 228
+Syria:
+  :iso: SY
+  :cc: 963
+  :mccs:
+  - 417
+Taiwan:
+  :iso: TW
+  :cc: 886
+  :mccs:
+  - 466
+Tajikistan:
+  :iso: TJ
+  :cc: 992
+  :mccs:
+  - 436
+Tanzania:
+  :iso: TZ
+  :cc: 255
+  :mccs:
+  - 640
+Thailand:
+  :iso: TH
+  :cc: 66
+  :mccs:
+  - 520
+Togo:
+  :iso: TG
+  :cc: 228
+  :mccs:
+  - 615
+Tonga:
+  :iso: TO
+  :cc: 676
+  :mccs:
+  - 539
+Trinidad and Tobago:
+  :iso: TT
+  :cc: 0
+  :mccs:
+  - 374
+Tunisia:
+  :iso: TN
+  :cc: 216
+  :mccs:
+  - 605
+Turkey:
+  :iso: TR
+  :cc: 90
+  :mccs:
+  - 286
+Turkmenistan:
+  :iso: TM
+  :cc: 993
+  :mccs:
+  - 438
+Turks and Caicos Islands:
+  :iso: TC
+  :cc: 0
+  :mccs:
+  - 338
+  - 376
+Tuvalu:
+  :iso: TV
+  :cc: 688
+  :mccs:
+  - 553
+Uganda:
+  :iso: UG
+  :cc: 256
+  :mccs:
+  - 641
+Ukraine:
+  :iso: UA
+  :cc: 380
+  :mccs:
+  - 255
+United Arab Emirates:
+  :iso: AE
+  :cc: 971
+  :mccs:
+  - 424
+United Kingdom:
+  :iso: GB
+  :cc: 44
+  :mccs:
+  - 234
+  - 235
+United States of America:
+  :iso: US
+  :cc: 1
+  :mccs:
+  - 310
+  - 311
+  - 312
+  - 313
+  - 316
+Uruguay:
+  :iso: UY
+  :cc: 598
+  :mccs:
+  - 748
+Uzbekistan:
+  :iso: UZ
+  :cc: 998
+  :mccs:
+  - 434
+Vanuatu:
+  :iso: VU
+  :cc: 678
+  :mccs:
+  - 541
+Vatican:
+  :iso: VA
+  :cc: 39
+  :mccs:
+  - 225
+Venezuela:
+  :iso: VE
+  :cc: 58
+  :mccs:
+  - 734
+Vietnam:
+  :iso: VN
+  :cc: 84
+  :mccs:
+  - 452
+Yemen:
+  :iso: YE
+  :cc: 967
+  :mccs:
+  - 421
+Zambia:
+  :iso: ZM
+  :cc: 260
+  :mccs:
+  - 645
+Zimbabwe:
+  :iso: ZW
+  :cc: 263
+  :mccs:
+  - 648
+Unknown 233:
+  :iso:
+  :cc:
+  :mccs:
+  - 901

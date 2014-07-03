@@ -27,3 +27,9 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
+
+http://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.212B-2013-PDF-E.pdf
+http://www.itu.int/dms_pub/itu-t/opb/sp/T-SP-E.212A-2012-PDF-E.pdf # List mcc
+http://en.wikipedia.org/wiki/Mobile_country_code
+
+http://www.itu.int/pub/T-SP-OB.1054-2014
