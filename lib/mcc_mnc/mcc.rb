@@ -7,13 +7,13 @@ module MCC_MNC
     end
 
     def self.find(mcc)
-      @mcc_cc ||= YAML.load(File.read('data/mnc_cc.yaml'))
+      @mcc_cc ||= YAML.load(File.read(File.join(File.expand_path(File.dirname(__FILE__)), '..', '..', 'data', 'mnc_cc.yaml')))
       cc = @mcc_cc[Integer("#{mcc}", 10)]
       new(mcc, cc)
     end
 
     def inspect
-      "<MCC mcc: #{mcc}, cc: #{cc}>"
+      "<MCC mcc: #{mcc.inspect}, cc: #{cc.inspect}>"
     end
 
   end
